@@ -2,7 +2,7 @@
 Discord pokédex bot with target CP information for PokémonGo
 
 
-####Install
+#### Install
 
 1) install requirements `npm install`  
 2) fill comfig file `config/default.json`
@@ -12,7 +12,7 @@ Discord pokédex bot with target CP information for PokémonGo
     * Fill maxlow for how many images your custom source has
 3) Start the bot `npm start`
     
-####Usage
+#### Usage
 
 1) Invite bot to your discord server
 2) ask it information about one or several pokémon `!pokedex dragonite pidgey`.
