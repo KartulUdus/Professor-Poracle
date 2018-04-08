@@ -1,0 +1,3607 @@
+{
+  "1": {
+    "stamina": 90,
+    "attack": 118,
+    "defense": 118
+  },
+  "2": {
+    "stamina": 120,
+    "attack": 151,
+    "defense": 151
+  },
+  "3": {
+    "stamina": 160,
+    "attack": 198,
+    "defense": 198
+  },
+  "4": {
+    "stamina": 78,
+    "attack": 116,
+    "defense": 96
+  },
+  "5": {
+    "stamina": 116,
+    "attack": 158,
+    "defense": 129
+  },
+  "6": {
+    "stamina": 156,
+    "attack": 223,
+    "defense": 176
+  },
+  "7": {
+    "stamina": 88,
+    "attack": 94,
+    "defense": 122
+  },
+  "8": {
+    "stamina": 118,
+    "attack": 126,
+    "defense": 155
+  },
+  "9": {
+    "stamina": 158,
+    "attack": 171,
+    "defense": 210
+  },
+  "10": {
+    "stamina": 90,
+    "attack": 55,
+    "defense": 62
+  },
+  "11": {
+    "stamina": 100,
+    "attack": 45,
+    "defense": 94
+  },
+  "12": {
+    "stamina": 120,
+    "attack": 167,
+    "defense": 151
+  },
+  "13": {
+    "stamina": 80,
+    "attack": 63,
+    "defense": 55
+  },
+  "14": {
+    "stamina": 90,
+    "attack": 46,
+    "defense": 86
+  },
+  "15": {
+    "stamina": 130,
+    "attack": 169,
+    "defense": 150
+  },
+  "16": {
+    "stamina": 80,
+    "attack": 85,
+    "defense": 76
+  },
+  "17": {
+    "stamina": 126,
+    "attack": 117,
+    "defense": 108
+  },
+  "18": {
+    "stamina": 166,
+    "attack": 166,
+    "defense": 157
+  },
+  "19": {
+    "stamina": 60,
+    "attack": 103,
+    "defense": 70
+  },
+  "20": {
+    "stamina": 110,
+    "attack": 161,
+    "defense": 144
+  },
+  "21": {
+    "stamina": 80,
+    "attack": 112,
+    "defense": 61
+  },
+  "22": {
+    "stamina": 130,
+    "attack": 182,
+    "defense": 135
+  },
+  "23": {
+    "stamina": 70,
+    "attack": 110,
+    "defense": 102
+  },
+  "24": {
+    "stamina": 120,
+    "attack": 185,
+    "defense": 158
+  },
+  "25": {
+    "stamina": 70,
+    "attack": 112,
+    "defense": 101
+  },
+  "26": {
+    "stamina": 120,
+    "attack": 193,
+    "defense": 165
+  },
+  "27": {
+    "stamina": 100,
+    "attack": 126,
+    "defense": 145
+  },
+  "28": {
+    "stamina": 150,
+    "attack": 182,
+    "defense": 202
+  },
+  "29": {
+    "stamina": 110,
+    "attack": 86,
+    "defense": 94
+  },
+  "30": {
+    "stamina": 140,
+    "attack": 117,
+    "defense": 126
+  },
+  "31": {
+    "stamina": 180,
+    "attack": 180,
+    "defense": 174
+  },
+  "32": {
+    "stamina": 92,
+    "attack": 105,
+    "defense": 76
+  },
+  "33": {
+    "stamina": 122,
+    "attack": 137,
+    "defense": 112
+  },
+  "34": {
+    "stamina": 162,
+    "attack": 204,
+    "defense": 157
+  },
+  "35": {
+    "stamina": 140,
+    "attack": 107,
+    "defense": 116
+  },
+  "36": {
+    "stamina": 190,
+    "attack": 178,
+    "defense": 171
+  },
+  "37": {
+    "stamina": 76,
+    "attack": 96,
+    "defense": 122
+  },
+  "38": {
+    "stamina": 146,
+    "attack": 169,
+    "defense": 204
+  },
+  "39": {
+    "stamina": 230,
+    "attack": 80,
+    "defense": 44
+  },
+  "40": {
+    "stamina": 280,
+    "attack": 156,
+    "defense": 93
+  },
+  "41": {
+    "stamina": 80,
+    "attack": 83,
+    "defense": 76
+  },
+  "42": {
+    "stamina": 150,
+    "attack": 161,
+    "defense": 153
+  },
+  "43": {
+    "stamina": 90,
+    "attack": 131,
+    "defense": 116
+  },
+  "44": {
+    "stamina": 120,
+    "attack": 153,
+    "defense": 139
+  },
+  "45": {
+    "stamina": 150,
+    "attack": 202,
+    "defense": 170
+  },
+  "46": {
+    "stamina": 70,
+    "attack": 121,
+    "defense": 99
+  },
+  "47": {
+    "stamina": 120,
+    "attack": 165,
+    "defense": 146
+  },
+  "48": {
+    "stamina": 120,
+    "attack": 100,
+    "defense": 102
+  },
+  "49": {
+    "stamina": 140,
+    "attack": 179,
+    "defense": 150
+  },
+  "50": {
+    "stamina": 20,
+    "attack": 109,
+    "defense": 88
+  },
+  "51": {
+    "stamina": 70,
+    "attack": 205,
+    "defense": 147
+  },
+  "52": {
+    "stamina": 80,
+    "attack": 92,
+    "defense": 81
+  },
+  "53": {
+    "stamina": 130,
+    "attack": 150,
+    "defense": 139
+  },
+  "54": {
+    "stamina": 100,
+    "attack": 122,
+    "defense": 96
+  },
+  "55": {
+    "stamina": 160,
+    "attack": 191,
+    "defense": 163
+  },
+  "56": {
+    "stamina": 80,
+    "attack": 148,
+    "defense": 87
+  },
+  "57": {
+    "stamina": 130,
+    "attack": 207,
+    "defense": 144
+  },
+  "58": {
+    "stamina": 110,
+    "attack": 136,
+    "defense": 96
+  },
+  "59": {
+    "stamina": 180,
+    "attack": 227,
+    "defense": 166
+  },
+  "60": {
+    "stamina": 80,
+    "attack": 101,
+    "defense": 82
+  },
+  "61": {
+    "stamina": 130,
+    "attack": 130,
+    "defense": 130
+  },
+  "62": {
+    "stamina": 180,
+    "attack": 182,
+    "defense": 187
+  },
+  "63": {
+    "stamina": 50,
+    "attack": 195,
+    "defense": 103
+  },
+  "64": {
+    "stamina": 80,
+    "attack": 232,
+    "defense": 138
+  },
+  "65": {
+    "stamina": 110,
+    "attack": 271,
+    "defense": 194
+  },
+  "66": {
+    "stamina": 140,
+    "attack": 137,
+    "defense": 88
+  },
+  "67": {
+    "stamina": 160,
+    "attack": 177,
+    "defense": 130
+  },
+  "68": {
+    "stamina": 180,
+    "attack": 234,
+    "defense": 162
+  },
+  "69": {
+    "stamina": 100,
+    "attack": 139,
+    "defense": 64
+  },
+  "70": {
+    "stamina": 130,
+    "attack": 172,
+    "defense": 95
+  },
+  "71": {
+    "stamina": 160,
+    "attack": 207,
+    "defense": 138
+  },
+  "72": {
+    "stamina": 80,
+    "attack": 97,
+    "defense": 182
+  },
+  "73": {
+    "stamina": 160,
+    "attack": 166,
+    "defense": 237
+  },
+  "74": {
+    "stamina": 80,
+    "attack": 132,
+    "defense": 163
+  },
+  "75": {
+    "stamina": 110,
+    "attack": 164,
+    "defense": 196
+  },
+  "76": {
+    "stamina": 160,
+    "attack": 211,
+    "defense": 229
+  },
+  "77": {
+    "stamina": 100,
+    "attack": 170,
+    "defense": 132
+  },
+  "78": {
+    "stamina": 130,
+    "attack": 207,
+    "defense": 167
+  },
+  "79": {
+    "stamina": 180,
+    "attack": 109,
+    "defense": 109
+  },
+  "80": {
+    "stamina": 190,
+    "attack": 177,
+    "defense": 194
+  },
+  "81": {
+    "stamina": 50,
+    "attack": 165,
+    "defense": 128
+  },
+  "82": {
+    "stamina": 100,
+    "attack": 223,
+    "defense": 182
+  },
+  "83": {
+    "stamina": 104,
+    "attack": 167,
+    "defense": 118
+  },
+  "84": {
+    "stamina": 70,
+    "attack": 158,
+    "defense": 88
+  },
+  "85": {
+    "stamina": 120,
+    "attack": 223,
+    "defense": 148
+  },
+  "86": {
+    "stamina": 130,
+    "attack": 85,
+    "defense": 128
+  },
+  "87": {
+    "stamina": 180,
+    "attack": 139,
+    "defense": 184
+  },
+  "88": {
+    "stamina": 160,
+    "attack": 135,
+    "defense": 90
+  },
+  "89": {
+    "stamina": 210,
+    "attack": 190,
+    "defense": 184
+  },
+  "90": {
+    "stamina": 60,
+    "attack": 116,
+    "defense": 168
+  },
+  "91": {
+    "stamina": 100,
+    "attack": 186,
+    "defense": 323
+  },
+  "92": {
+    "stamina": 60,
+    "attack": 186,
+    "defense": 70
+  },
+  "93": {
+    "stamina": 90,
+    "attack": 223,
+    "defense": 112
+  },
+  "94": {
+    "stamina": 120,
+    "attack": 261,
+    "defense": 156
+  },
+  "95": {
+    "stamina": 70,
+    "attack": 85,
+    "defense": 288
+  },
+  "96": {
+    "stamina": 120,
+    "attack": 89,
+    "defense": 158
+  },
+  "97": {
+    "stamina": 170,
+    "attack": 144,
+    "defense": 215
+  },
+  "98": {
+    "stamina": 60,
+    "attack": 181,
+    "defense": 156
+  },
+  "99": {
+    "stamina": 110,
+    "attack": 240,
+    "defense": 214
+  },
+  "100": {
+    "stamina": 80,
+    "attack": 109,
+    "defense": 114
+  },
+  "101": {
+    "stamina": 120,
+    "attack": 176,
+    "defense": 182
+  },
+  "102": {
+    "stamina": 120,
+    "attack": 107,
+    "defense": 140
+  },
+  "103": {
+    "stamina": 190,
+    "attack": 233,
+    "defense": 161
+  },
+  "104": {
+    "stamina": 100,
+    "attack": 90,
+    "defense": 165
+  },
+  "105": {
+    "stamina": 120,
+    "attack": 144,
+    "defense": 200
+  },
+  "106": {
+    "stamina": 100,
+    "attack": 224,
+    "defense": 211
+  },
+  "107": {
+    "stamina": 100,
+    "attack": 193,
+    "defense": 212
+  },
+  "108": {
+    "stamina": 180,
+    "attack": 108,
+    "defense": 137
+  },
+  "109": {
+    "stamina": 80,
+    "attack": 119,
+    "defense": 164
+  },
+  "110": {
+    "stamina": 130,
+    "attack": 174,
+    "defense": 221
+  },
+  "111": {
+    "stamina": 160,
+    "attack": 140,
+    "defense": 157
+  },
+  "112": {
+    "stamina": 210,
+    "attack": 222,
+    "defense": 206
+  },
+  "113": {
+    "stamina": 500,
+    "attack": 60,
+    "defense": 176
+  },
+  "114": {
+    "stamina": 130,
+    "attack": 183,
+    "defense": 205
+  },
+  "115": {
+    "stamina": 210,
+    "attack": 181,
+    "defense": 165
+  },
+  "116": {
+    "stamina": 60,
+    "attack": 129,
+    "defense": 125
+  },
+  "117": {
+    "stamina": 110,
+    "attack": 187,
+    "defense": 182
+  },
+  "118": {
+    "stamina": 90,
+    "attack": 123,
+    "defense": 115
+  },
+  "119": {
+    "stamina": 160,
+    "attack": 175,
+    "defense": 154
+  },
+  "120": {
+    "stamina": 60,
+    "attack": 137,
+    "defense": 112
+  },
+  "121": {
+    "stamina": 120,
+    "attack": 210,
+    "defense": 184
+  },
+  "122": {
+    "stamina": 80,
+    "attack": 192,
+    "defense": 233
+  },
+  "123": {
+    "stamina": 140,
+    "attack": 218,
+    "defense": 170
+  },
+  "124": {
+    "stamina": 130,
+    "attack": 223,
+    "defense": 182
+  },
+  "125": {
+    "stamina": 130,
+    "attack": 198,
+    "defense": 173
+  },
+  "126": {
+    "stamina": 130,
+    "attack": 206,
+    "defense": 169
+  },
+  "127": {
+    "stamina": 130,
+    "attack": 238,
+    "defense": 197
+  },
+  "128": {
+    "stamina": 150,
+    "attack": 198,
+    "defense": 197
+  },
+  "129": {
+    "stamina": 40,
+    "attack": 29,
+    "defense": 102
+  },
+  "130": {
+    "stamina": 190,
+    "attack": 237,
+    "defense": 197
+  },
+  "131": {
+    "stamina": 260,
+    "attack": 165,
+    "defense": 180
+  },
+  "132": {
+    "stamina": 96,
+    "attack": 91,
+    "defense": 91
+  },
+  "133": {
+    "stamina": 110,
+    "attack": 104,
+    "defense": 121
+  },
+  "134": {
+    "stamina": 260,
+    "attack": 205,
+    "defense": 177
+  },
+  "135": {
+    "stamina": 130,
+    "attack": 232,
+    "defense": 201
+  },
+  "136": {
+    "stamina": 130,
+    "attack": 246,
+    "defense": 204
+  },
+  "137": {
+    "stamina": 130,
+    "attack": 153,
+    "defense": 139
+  },
+  "138": {
+    "stamina": 70,
+    "attack": 155,
+    "defense": 174
+  },
+  "139": {
+    "stamina": 140,
+    "attack": 207,
+    "defense": 227
+  },
+  "140": {
+    "stamina": 60,
+    "attack": 148,
+    "defense": 162
+  },
+  "141": {
+    "stamina": 120,
+    "attack": 220,
+    "defense": 203
+  },
+  "142": {
+    "stamina": 160,
+    "attack": 221,
+    "defense": 164
+  },
+  "143": {
+    "stamina": 320,
+    "attack": 190,
+    "defense": 190
+  },
+  "144": {
+    "stamina": 180,
+    "attack": 192,
+    "defense": 249
+  },
+  "145": {
+    "stamina": 180,
+    "attack": 253,
+    "defense": 188
+  },
+  "146": {
+    "stamina": 180,
+    "attack": 251,
+    "defense": 184
+  },
+  "147": {
+    "stamina": 82,
+    "attack": 119,
+    "defense": 94
+  },
+  "148": {
+    "stamina": 122,
+    "attack": 163,
+    "defense": 138
+  },
+  "149": {
+    "stamina": 182,
+    "attack": 263,
+    "defense": 201
+  },
+  "150": {
+    "stamina": 193,
+    "attack": 300,
+    "defense": 182
+  },
+  "151": {
+    "stamina": 200,
+    "attack": 210,
+    "defense": 210
+  },
+  "152": {
+    "stamina": 90,
+    "attack": 92,
+    "defense": 122
+  },
+  "153": {
+    "stamina": 120,
+    "attack": 122,
+    "defense": 155
+  },
+  "154": {
+    "stamina": 160,
+    "attack": 168,
+    "defense": 202
+  },
+  "155": {
+    "stamina": 78,
+    "attack": 116,
+    "defense": 96
+  },
+  "156": {
+    "stamina": 116,
+    "attack": 158,
+    "defense": 129
+  },
+  "157": {
+    "stamina": 156,
+    "attack": 223,
+    "defense": 176
+  },
+  "158": {
+    "stamina": 100,
+    "attack": 117,
+    "defense": 116
+  },
+  "159": {
+    "stamina": 130,
+    "attack": 150,
+    "defense": 151
+  },
+  "160": {
+    "stamina": 170,
+    "attack": 205,
+    "defense": 197
+  },
+  "161": {
+    "stamina": 70,
+    "attack": 79,
+    "defense": 77
+  },
+  "162": {
+    "stamina": 170,
+    "attack": 148,
+    "defense": 130
+  },
+  "163": {
+    "stamina": 120,
+    "attack": 67,
+    "defense": 101
+  },
+  "164": {
+    "stamina": 200,
+    "attack": 161,
+    "defense": 179
+  },
+  "165": {
+    "stamina": 80,
+    "attack": 72,
+    "defense": 142
+  },
+  "166": {
+    "stamina": 110,
+    "attack": 107,
+    "defense": 209
+  },
+  "167": {
+    "stamina": 80,
+    "attack": 105,
+    "defense": 73
+  },
+  "168": {
+    "stamina": 140,
+    "attack": 161,
+    "defense": 130
+  },
+  "169": {
+    "stamina": 170,
+    "attack": 194,
+    "defense": 178
+  },
+  "170": {
+    "stamina": 150,
+    "attack": 106,
+    "defense": 106
+  },
+  "171": {
+    "stamina": 250,
+    "attack": 146,
+    "defense": 146
+  },
+  "172": {
+    "stamina": 40,
+    "attack": 77,
+    "defense": 63
+  },
+  "173": {
+    "stamina": 100,
+    "attack": 75,
+    "defense": 91
+  },
+  "174": {
+    "stamina": 180,
+    "attack": 69,
+    "defense": 34
+  },
+  "175": {
+    "stamina": 70,
+    "attack": 67,
+    "defense": 116
+  },
+  "176": {
+    "stamina": 110,
+    "attack": 140,
+    "defense": 191
+  },
+  "177": {
+    "stamina": 80,
+    "attack": 134,
+    "defense": 89
+  },
+  "178": {
+    "stamina": 130,
+    "attack": 192,
+    "defense": 146
+  },
+  "179": {
+    "stamina": 110,
+    "attack": 114,
+    "defense": 82
+  },
+  "180": {
+    "stamina": 140,
+    "attack": 145,
+    "defense": 112
+  },
+  "181": {
+    "stamina": 180,
+    "attack": 211,
+    "defense": 172
+  },
+  "182": {
+    "stamina": 150,
+    "attack": 169,
+    "defense": 189
+  },
+  "183": {
+    "stamina": 140,
+    "attack": 37,
+    "defense": 93
+  },
+  "184": {
+    "stamina": 200,
+    "attack": 112,
+    "defense": 152
+  },
+  "185": {
+    "stamina": 140,
+    "attack": 167,
+    "defense": 198
+  },
+  "186": {
+    "stamina": 180,
+    "attack": 174,
+    "defense": 192
+  },
+  "187": {
+    "stamina": 70,
+    "attack": 67,
+    "defense": 101
+  },
+  "188": {
+    "stamina": 110,
+    "attack": 91,
+    "defense": 127
+  },
+  "189": {
+    "stamina": 150,
+    "attack": 118,
+    "defense": 197
+  },
+  "190": {
+    "stamina": 110,
+    "attack": 136,
+    "defense": 112
+  },
+  "191": {
+    "stamina": 60,
+    "attack": 55,
+    "defense": 55
+  },
+  "192": {
+    "stamina": 150,
+    "attack": 185,
+    "defense": 148
+  },
+  "193": {
+    "stamina": 130,
+    "attack": 154,
+    "defense": 94
+  },
+  "194": {
+    "stamina": 110,
+    "attack": 75,
+    "defense": 75
+  },
+  "195": {
+    "stamina": 190,
+    "attack": 152,
+    "defense": 152
+  },
+  "196": {
+    "stamina": 130,
+    "attack": 261,
+    "defense": 194
+  },
+  "197": {
+    "stamina": 190,
+    "attack": 126,
+    "defense": 250
+  },
+  "198": {
+    "stamina": 120,
+    "attack": 175,
+    "defense": 87
+  },
+  "199": {
+    "stamina": 190,
+    "attack": 177,
+    "defense": 194
+  },
+  "200": {
+    "stamina": 120,
+    "attack": 167,
+    "defense": 167
+  },
+  "201": {
+    "stamina": 96,
+    "attack": 136,
+    "defense": 91
+  },
+  "202": {
+    "stamina": 380,
+    "attack": 60,
+    "defense": 106
+  },
+  "203": {
+    "stamina": 140,
+    "attack": 182,
+    "defense": 133
+  },
+  "204": {
+    "stamina": 100,
+    "attack": 108,
+    "defense": 146
+  },
+  "205": {
+    "stamina": 150,
+    "attack": 161,
+    "defense": 242
+  },
+  "206": {
+    "stamina": 200,
+    "attack": 131,
+    "defense": 131
+  },
+  "207": {
+    "stamina": 130,
+    "attack": 143,
+    "defense": 204
+  },
+  "208": {
+    "stamina": 150,
+    "attack": 148,
+    "defense": 333
+  },
+  "209": {
+    "stamina": 120,
+    "attack": 137,
+    "defense": 89
+  },
+  "210": {
+    "stamina": 180,
+    "attack": 212,
+    "defense": 137
+  },
+  "211": {
+    "stamina": 130,
+    "attack": 184,
+    "defense": 166
+  },
+  "212": {
+    "stamina": 140,
+    "attack": 236,
+    "defense": 191
+  },
+  "213": {
+    "stamina": 40,
+    "attack": 17,
+    "defense": 396
+  },
+  "214": {
+    "stamina": 160,
+    "attack": 234,
+    "defense": 189
+  },
+  "215": {
+    "stamina": 110,
+    "attack": 189,
+    "defense": 157
+  },
+  "216": {
+    "stamina": 120,
+    "attack": 142,
+    "defense": 93
+  },
+  "217": {
+    "stamina": 180,
+    "attack": 236,
+    "defense": 144
+  },
+  "218": {
+    "stamina": 80,
+    "attack": 118,
+    "defense": 71
+  },
+  "219": {
+    "stamina": 120,
+    "attack": 155,
+    "defense": 209
+  },
+  "220": {
+    "stamina": 100,
+    "attack": 90,
+    "defense": 74
+  },
+  "221": {
+    "stamina": 200,
+    "attack": 181,
+    "defense": 147
+  },
+  "222": {
+    "stamina": 130,
+    "attack": 118,
+    "defense": 175
+  },
+  "223": {
+    "stamina": 70,
+    "attack": 127,
+    "defense": 69
+  },
+  "224": {
+    "stamina": 150,
+    "attack": 197,
+    "defense": 141
+  },
+  "225": {
+    "stamina": 90,
+    "attack": 128,
+    "defense": 90
+  },
+  "226": {
+    "stamina": 170,
+    "attack": 149,
+    "defense": 260
+  },
+  "227": {
+    "stamina": 130,
+    "attack": 149,
+    "defense": 260
+  },
+  "228": {
+    "stamina": 90,
+    "attack": 152,
+    "defense": 93
+  },
+  "229": {
+    "stamina": 150,
+    "attack": 224,
+    "defense": 159
+  },
+  "230": {
+    "stamina": 150,
+    "attack": 194,
+    "defense": 194
+  },
+  "231": {
+    "stamina": 180,
+    "attack": 107,
+    "defense": 107
+  },
+  "232": {
+    "stamina": 180,
+    "attack": 214,
+    "defense": 214
+  },
+  "233": {
+    "stamina": 170,
+    "attack": 198,
+    "defense": 183
+  },
+  "234": {
+    "stamina": 146,
+    "attack": 192,
+    "defense": 132
+  },
+  "235": {
+    "stamina": 110,
+    "attack": 40,
+    "defense": 88
+  },
+  "236": {
+    "stamina": 70,
+    "attack": 64,
+    "defense": 64
+  },
+  "237": {
+    "stamina": 100,
+    "attack": 173,
+    "defense": 214
+  },
+  "238": {
+    "stamina": 90,
+    "attack": 153,
+    "defense": 116
+  },
+  "239": {
+    "stamina": 90,
+    "attack": 135,
+    "defense": 110
+  },
+  "240": {
+    "stamina": 90,
+    "attack": 151,
+    "defense": 108
+  },
+  "241": {
+    "stamina": 190,
+    "attack": 158,
+    "defense": 211
+  },
+  "242": {
+    "stamina": 510,
+    "attack": 129,
+    "defense": 229
+  },
+  "243": {
+    "stamina": 180,
+    "attack": 241,
+    "defense": 210
+  },
+  "244": {
+    "stamina": 230,
+    "attack": 235,
+    "defense": 176
+  },
+  "245": {
+    "stamina": 200,
+    "attack": 180,
+    "defense": 235
+  },
+  "246": {
+    "stamina": 100,
+    "attack": 115,
+    "defense": 93
+  },
+  "247": {
+    "stamina": 140,
+    "attack": 155,
+    "defense": 133
+  },
+  "248": {
+    "stamina": 200,
+    "attack": 251,
+    "defense": 212
+  },
+  "249": {
+    "stamina": 212,
+    "attack": 193,
+    "defense": 323
+  },
+  "250": {
+    "stamina": 193,
+    "attack": 239,
+    "defense": 274
+  },
+  "251": {
+    "stamina": 200,
+    "attack": 210,
+    "defense": 210
+  },
+  "252": {
+    "stamina": 80,
+    "attack": 124,
+    "defense": 104
+  },
+  "253": {
+    "stamina": 100,
+    "attack": 172,
+    "defense": 130
+  },
+  "254": {
+    "stamina": 140,
+    "attack": 223,
+    "defense": 180
+  },
+  "255": {
+    "stamina": 90,
+    "attack": 130,
+    "defense": 92
+  },
+  "256": {
+    "stamina": 120,
+    "attack": 163,
+    "defense": 115
+  },
+  "257": {
+    "stamina": 160,
+    "attack": 240,
+    "defense": 141
+  },
+  "258": {
+    "stamina": 100,
+    "attack": 126,
+    "defense": 93
+  },
+  "259": {
+    "stamina": 140,
+    "attack": 156,
+    "defense": 133
+  },
+  "260": {
+    "stamina": 200,
+    "attack": 208,
+    "defense": 175
+  },
+  "261": {
+    "stamina": 70,
+    "attack": 96,
+    "defense": 63
+  },
+  "262": {
+    "stamina": 140,
+    "attack": 171,
+    "defense": 137
+  },
+  "263": {
+    "stamina": 76,
+    "attack": 58,
+    "defense": 80
+  },
+  "264": {
+    "stamina": 156,
+    "attack": 142,
+    "defense": 128
+  },
+  "265": {
+    "stamina": 90,
+    "attack": 75,
+    "defense": 61
+  },
+  "266": {
+    "stamina": 100,
+    "attack": 60,
+    "defense": 91
+  },
+  "267": {
+    "stamina": 120,
+    "attack": 189,
+    "defense": 98
+  },
+  "268": {
+    "stamina": 100,
+    "attack": 60,
+    "defense": 91
+  },
+  "269": {
+    "stamina": 120,
+    "attack": 98,
+    "defense": 172
+  },
+  "270": {
+    "stamina": 80,
+    "attack": 71,
+    "defense": 86
+  },
+  "271": {
+    "stamina": 120,
+    "attack": 112,
+    "defense": 128
+  },
+  "272": {
+    "stamina": 160,
+    "attack": 173,
+    "defense": 191
+  },
+  "273": {
+    "stamina": 80,
+    "attack": 71,
+    "defense": 86
+  },
+  "274": {
+    "stamina": 140,
+    "attack": 134,
+    "defense": 78
+  },
+  "275": {
+    "stamina": 180,
+    "attack": 200,
+    "defense": 121
+  },
+  "276": {
+    "stamina": 80,
+    "attack": 106,
+    "defense": 61
+  },
+  "277": {
+    "stamina": 120,
+    "attack": 185,
+    "defense": 130
+  },
+  "278": {
+    "stamina": 80,
+    "attack": 106,
+    "defense": 61
+  },
+  "279": {
+    "stamina": 120,
+    "attack": 175,
+    "defense": 189
+  },
+  "280": {
+    "stamina": 56,
+    "attack": 79,
+    "defense": 63
+  },
+  "281": {
+    "stamina": 76,
+    "attack": 117,
+    "defense": 100
+  },
+  "282": {
+    "stamina": 136,
+    "attack": 237,
+    "defense": 220
+  },
+  "283": {
+    "stamina": 80,
+    "attack": 93,
+    "defense": 97
+  },
+  "284": {
+    "stamina": 140,
+    "attack": 192,
+    "defense": 161
+  },
+  "285": {
+    "stamina": 120,
+    "attack": 74,
+    "defense": 110
+  },
+  "286": {
+    "stamina": 120,
+    "attack": 241,
+    "defense": 153
+  },
+  "287": {
+    "stamina": 120,
+    "attack": 104,
+    "defense": 104
+  },
+  "288": {
+    "stamina": 160,
+    "attack": 159,
+    "defense": 159
+  },
+  "289": {
+    "stamina": 300,
+    "attack": 319,
+    "defense": 201
+  },
+  "290": {
+    "stamina": 62,
+    "attack": 80,
+    "defense": 153
+  },
+  "291": {
+    "stamina": 122,
+    "attack": 199,
+    "defense": 116
+  },
+  "292": {
+    "stamina": 2,
+    "attack": 153,
+    "defense": 80
+  },
+  "293": {
+    "stamina": 128,
+    "attack": 92,
+    "defense": 42
+  },
+  "294": {
+    "stamina": 168,
+    "attack": 134,
+    "defense": 81
+  },
+  "295": {
+    "stamina": 208,
+    "attack": 179,
+    "defense": 142
+  },
+  "296": {
+    "stamina": 144,
+    "attack": 99,
+    "defense": 54
+  },
+  "297": {
+    "stamina": 288,
+    "attack": 209,
+    "defense": 114
+  },
+  "298": {
+    "stamina": 100,
+    "attack": 36,
+    "defense": 71
+  },
+  "299": {
+    "stamina": 60,
+    "attack": 82,
+    "defense": 236
+  },
+  "300": {
+    "stamina": 100,
+    "attack": 84,
+    "defense": 84
+  },
+  "301": {
+    "stamina": 140,
+    "attack": 132,
+    "defense": 132
+  },
+  "302": {
+    "stamina": 100,
+    "attack": 141,
+    "defense": 141
+  },
+  "303": {
+    "stamina": 100,
+    "attack": 155,
+    "defense": 155
+  },
+  "304": {
+    "stamina": 100,
+    "attack": 121,
+    "defense": 168
+  },
+  "305": {
+    "stamina": 120,
+    "attack": 158,
+    "defense": 240
+  },
+  "306": {
+    "stamina": 140,
+    "attack": 198,
+    "defense": 314
+  },
+  "307": {
+    "stamina": 60,
+    "attack": 78,
+    "defense": 107
+  },
+  "308": {
+    "stamina": 120,
+    "attack": 121,
+    "defense": 152
+  },
+  "309": {
+    "stamina": 80,
+    "attack": 123,
+    "defense": 78
+  },
+  "310": {
+    "stamina": 140,
+    "attack": 215,
+    "defense": 127
+  },
+  "311": {
+    "stamina": 120,
+    "attack": 167,
+    "defense": 147
+  },
+  "312": {
+    "stamina": 120,
+    "attack": 147,
+    "defense": 167
+  },
+  "313": {
+    "stamina": 130,
+    "attack": 143,
+    "defense": 171
+  },
+  "314": {
+    "stamina": 130,
+    "attack": 143,
+    "defense": 171
+  },
+  "315": {
+    "stamina": 100,
+    "attack": 186,
+    "defense": 148
+  },
+  "316": {
+    "stamina": 140,
+    "attack": 80,
+    "defense": 99
+  },
+  "317": {
+    "stamina": 200,
+    "attack": 140,
+    "defense": 159
+  },
+  "318": {
+    "stamina": 90,
+    "attack": 171,
+    "defense": 39
+  },
+  "319": {
+    "stamina": 140,
+    "attack": 243,
+    "defense": 83
+  },
+  "320": {
+    "stamina": 260,
+    "attack": 136,
+    "defense": 68
+  },
+  "321": {
+    "stamina": 340,
+    "attack": 175,
+    "defense": 87
+  },
+  "322": {
+    "stamina": 120,
+    "attack": 119,
+    "defense": 82
+  },
+  "323": {
+    "stamina": 140,
+    "attack": 194,
+    "defense": 139
+  },
+  "324": {
+    "stamina": 140,
+    "attack": 151,
+    "defense": 234
+  },
+  "325": {
+    "stamina": 120,
+    "attack": 125,
+    "defense": 145
+  },
+  "326": {
+    "stamina": 160,
+    "attack": 171,
+    "defense": 211
+  },
+  "327": {
+    "stamina": 120,
+    "attack": 116,
+    "defense": 116
+  },
+  "328": {
+    "stamina": 90,
+    "attack": 162,
+    "defense": 78
+  },
+  "329": {
+    "stamina": 100,
+    "attack": 134,
+    "defense": 99
+  },
+  "330": {
+    "stamina": 160,
+    "attack": 205,
+    "defense": 168
+  },
+  "331": {
+    "stamina": 100,
+    "attack": 156,
+    "defense": 74
+  },
+  "332": {
+    "stamina": 140,
+    "attack": 221,
+    "defense": 115
+  },
+  "333": {
+    "stamina": 90,
+    "attack": 76,
+    "defense": 139
+  },
+  "334": {
+    "stamina": 150,
+    "attack": 141,
+    "defense": 208
+  },
+  "335": {
+    "stamina": 146,
+    "attack": 222,
+    "defense": 124
+  },
+  "336": {
+    "stamina": 146,
+    "attack": 196,
+    "defense": 118
+  },
+  "337": {
+    "stamina": 180,
+    "attack": 178,
+    "defense": 163
+  },
+  "338": {
+    "stamina": 180,
+    "attack": 178,
+    "defense": 163
+  },
+  "339": {
+    "stamina": 100,
+    "attack": 93,
+    "defense": 83
+  },
+  "340": {
+    "stamina": 220,
+    "attack": 151,
+    "defense": 142
+  },
+  "341": {
+    "stamina": 86,
+    "attack": 141,
+    "defense": 113
+  },
+  "342": {
+    "stamina": 126,
+    "attack": 224,
+    "defense": 156
+  },
+  "343": {
+    "stamina": 80,
+    "attack": 77,
+    "defense": 131
+  },
+  "344": {
+    "stamina": 120,
+    "attack": 140,
+    "defense": 236
+  },
+  "345": {
+    "stamina": 132,
+    "attack": 105,
+    "defense": 154
+  },
+  "346": {
+    "stamina": 172,
+    "attack": 152,
+    "defense": 198
+  },
+  "347": {
+    "stamina": 90,
+    "attack": 176,
+    "defense": 100
+  },
+  "348": {
+    "stamina": 150,
+    "attack": 222,
+    "defense": 183
+  },
+  "349": {
+    "stamina": 40,
+    "attack": 29,
+    "defense": 102
+  },
+  "350": {
+    "stamina": 190,
+    "attack": 192,
+    "defense": 242
+  },
+  "351": {
+    "stamina": 140,
+    "attack": 139,
+    "defense": 139
+  },
+  "352": {
+    "stamina": 120,
+    "attack": 161,
+    "defense": 212
+  },
+  "353": {
+    "stamina": 88,
+    "attack": 138,
+    "defense": 66
+  },
+  "354": {
+    "stamina": 128,
+    "attack": 218,
+    "defense": 127
+  },
+  "355": {
+    "stamina": 40,
+    "attack": 70,
+    "defense": 162
+  },
+  "356": {
+    "stamina": 80,
+    "attack": 124,
+    "defense": 234
+  },
+  "357": {
+    "stamina": 198,
+    "attack": 136,
+    "defense": 165
+  },
+  "358": {
+    "stamina": 150,
+    "attack": 175,
+    "defense": 174
+  },
+  "359": {
+    "stamina": 130,
+    "attack": 246,
+    "defense": 120
+  },
+  "360": {
+    "stamina": 190,
+    "attack": 41,
+    "defense": 86
+  },
+  "361": {
+    "stamina": 100,
+    "attack": 95,
+    "defense": 95
+  },
+  "362": {
+    "stamina": 160,
+    "attack": 162,
+    "defense": 162
+  },
+  "363": {
+    "stamina": 140,
+    "attack": 95,
+    "defense": 90
+  },
+  "364": {
+    "stamina": 180,
+    "attack": 137,
+    "defense": 132
+  },
+  "365": {
+    "stamina": 220,
+    "attack": 182,
+    "defense": 176
+  },
+  "366": {
+    "stamina": 70,
+    "attack": 133,
+    "defense": 149
+  },
+  "367": {
+    "stamina": 110,
+    "attack": 197,
+    "defense": 194
+  },
+  "368": {
+    "stamina": 110,
+    "attack": 211,
+    "defense": 194
+  },
+  "369": {
+    "stamina": 200,
+    "attack": 162,
+    "defense": 234
+  },
+  "370": {
+    "stamina": 86,
+    "attack": 81,
+    "defense": 134
+  },
+  "371": {
+    "stamina": 90,
+    "attack": 134,
+    "defense": 107
+  },
+  "372": {
+    "stamina": 130,
+    "attack": 172,
+    "defense": 179
+  },
+  "373": {
+    "stamina": 190,
+    "attack": 277,
+    "defense": 168
+  },
+  "374": {
+    "stamina": 80,
+    "attack": 96,
+    "defense": 141
+  },
+  "375": {
+    "stamina": 120,
+    "attack": 138,
+    "defense": 185
+  },
+  "376": {
+    "stamina": 160,
+    "attack": 257,
+    "defense": 248
+  },
+  "377": {
+    "stamina": 160,
+    "attack": 179,
+    "defense": 356
+  },
+  "378": {
+    "stamina": 160,
+    "attack": 179,
+    "defense": 356
+  },
+  "379": {
+    "stamina": 160,
+    "attack": 143,
+    "defense": 285
+  },
+  "380": {
+    "stamina": 160,
+    "attack": 228,
+    "defense": 268
+  },
+  "381": {
+    "stamina": 160,
+    "attack": 268,
+    "defense": 228
+  },
+  "382": {
+    "stamina": 182,
+    "attack": 270,
+    "defense": 251
+  },
+  "383": {
+    "stamina": 182,
+    "attack": 270,
+    "defense": 251
+  },
+  "384": {
+    "stamina": 191,
+    "attack": 284,
+    "defense": 170
+  },
+  "385": {
+    "stamina": 200,
+    "attack": 210,
+    "defense": 210
+  },
+  "386": {
+    "stamina": 100,
+    "attack": 345,
+    "defense": 115
+  },
+  "387": {
+    "stamina": 110,
+    "attack": 119,
+    "defense": 115
+  },
+  "388": {
+    "stamina": 150,
+    "attack": 157,
+    "defense": 152
+  },
+  "389": {
+    "stamina": 190,
+    "attack": 202,
+    "defense": 197
+  },
+  "390": {
+    "stamina": 88,
+    "attack": 113,
+    "defense": 86
+  },
+  "391": {
+    "stamina": 128,
+    "attack": 158,
+    "defense": 105
+  },
+  "392": {
+    "stamina": 152,
+    "attack": 222,
+    "defense": 151
+  },
+  "393": {
+    "stamina": 106,
+    "attack": 112,
+    "defense": 103
+  },
+  "394": {
+    "stamina": 128,
+    "attack": 150,
+    "defense": 143
+  },
+  "395": {
+    "stamina": 168,
+    "attack": 210,
+    "defense": 193
+  },
+  "396": {
+    "stamina": 80,
+    "attack": 101,
+    "defense": 58
+  },
+  "397": {
+    "stamina": 110,
+    "attack": 142,
+    "defense": 99
+  },
+  "398": {
+    "stamina": 170,
+    "attack": 234,
+    "defense": 145
+  },
+  "399": {
+    "stamina": 118,
+    "attack": 80,
+    "defense": 73
+  },
+  "400": {
+    "stamina": 158,
+    "attack": 162,
+    "defense": 119
+  },
+  "401": {
+    "stamina": 74,
+    "attack": 45,
+    "defense": 74
+  },
+  "402": {
+    "stamina": 154,
+    "attack": 160,
+    "defense": 100
+  },
+  "403": {
+    "stamina": 90,
+    "attack": 117,
+    "defense": 64
+  },
+  "404": {
+    "stamina": 120,
+    "attack": 159,
+    "defense": 95
+  },
+  "405": {
+    "stamina": 160,
+    "attack": 232,
+    "defense": 156
+  },
+  "406": {
+    "stamina": 80,
+    "attack": 91,
+    "defense": 126
+  },
+  "407": {
+    "stamina": 120,
+    "attack": 243,
+    "defense": 206
+  },
+  "408": {
+    "stamina": 134,
+    "attack": 218,
+    "defense": 75
+  },
+  "409": {
+    "stamina": 194,
+    "attack": 295,
+    "defense": 114
+  },
+  "410": {
+    "stamina": 60,
+    "attack": 76,
+    "defense": 208
+  },
+  "411": {
+    "stamina": 120,
+    "attack": 94,
+    "defense": 299
+  },
+  "412": {
+    "stamina": 80,
+    "attack": 53,
+    "defense": 83
+  },
+  "413": {
+    "stamina": 120,
+    "attack": 141,
+    "defense": 189
+  },
+  "414": {
+    "stamina": 140,
+    "attack": 185,
+    "defense": 98
+  },
+  "415": {
+    "stamina": 60,
+    "attack": 59,
+    "defense": 83
+  },
+  "416": {
+    "stamina": 140,
+    "attack": 149,
+    "defense": 190
+  },
+  "417": {
+    "stamina": 120,
+    "attack": 94,
+    "defense": 182
+  },
+  "418": {
+    "stamina": 110,
+    "attack": 132,
+    "defense": 70
+  },
+  "419": {
+    "stamina": 170,
+    "attack": 221,
+    "defense": 118
+  },
+  "420": {
+    "stamina": 90,
+    "attack": 108,
+    "defense": 96
+  },
+  "421": {
+    "stamina": 140,
+    "attack": 170,
+    "defense": 157
+  },
+  "422": {
+    "stamina": 152,
+    "attack": 103,
+    "defense": 111
+  },
+  "423": {
+    "stamina": 222,
+    "attack": 169,
+    "defense": 149
+  },
+  "424": {
+    "stamina": 150,
+    "attack": 205,
+    "defense": 143
+  },
+  "425": {
+    "stamina": 180,
+    "attack": 117,
+    "defense": 85
+  },
+  "426": {
+    "stamina": 300,
+    "attack": 180,
+    "defense": 107
+  },
+  "427": {
+    "stamina": 110,
+    "attack": 130,
+    "defense": 111
+  },
+  "428": {
+    "stamina": 130,
+    "attack": 156,
+    "defense": 200
+  },
+  "429": {
+    "stamina": 120,
+    "attack": 211,
+    "defense": 211
+  },
+  "430": {
+    "stamina": 200,
+    "attack": 243,
+    "defense": 103
+  },
+  "431": {
+    "stamina": 98,
+    "attack": 109,
+    "defense": 85
+  },
+  "432": {
+    "stamina": 142,
+    "attack": 172,
+    "defense": 136
+  },
+  "433": {
+    "stamina": 90,
+    "attack": 114,
+    "defense": 94
+  },
+  "434": {
+    "stamina": 126,
+    "attack": 121,
+    "defense": 93
+  },
+  "435": {
+    "stamina": 206,
+    "attack": 184,
+    "defense": 135
+  },
+  "436": {
+    "stamina": 114,
+    "attack": 43,
+    "defense": 154
+  },
+  "437": {
+    "stamina": 134,
+    "attack": 161,
+    "defense": 213
+  },
+  "438": {
+    "stamina": 100,
+    "attack": 124,
+    "defense": 155
+  },
+  "439": {
+    "stamina": 40,
+    "attack": 125,
+    "defense": 164
+  },
+  "440": {
+    "stamina": 200,
+    "attack": 25,
+    "defense": 105
+  },
+  "441": {
+    "stamina": 152,
+    "attack": 183,
+    "defense": 92
+  },
+  "442": {
+    "stamina": 100,
+    "attack": 169,
+    "defense": 199
+  },
+  "443": {
+    "stamina": 116,
+    "attack": 124,
+    "defense": 84
+  },
+  "444": {
+    "stamina": 136,
+    "attack": 172,
+    "defense": 130
+  },
+  "445": {
+    "stamina": 216,
+    "attack": 261,
+    "defense": 198
+  },
+  "446": {
+    "stamina": 270,
+    "attack": 137,
+    "defense": 137
+  },
+  "447": {
+    "stamina": 80,
+    "attack": 127,
+    "defense": 78
+  },
+  "448": {
+    "stamina": 140,
+    "attack": 236,
+    "defense": 144
+  },
+  "449": {
+    "stamina": 136,
+    "attack": 124,
+    "defense": 134
+  },
+  "450": {
+    "stamina": 216,
+    "attack": 201,
+    "defense": 212
+  },
+  "451": {
+    "stamina": 80,
+    "attack": 93,
+    "defense": 168
+  },
+  "452": {
+    "stamina": 140,
+    "attack": 180,
+    "defense": 219
+  },
+  "453": {
+    "stamina": 96,
+    "attack": 116,
+    "defense": 76
+  },
+  "454": {
+    "stamina": 166,
+    "attack": 211,
+    "defense": 133
+  },
+  "455": {
+    "stamina": 148,
+    "attack": 187,
+    "defense": 136
+  },
+  "456": {
+    "stamina": 98,
+    "attack": 96,
+    "defense": 119
+  },
+  "457": {
+    "stamina": 138,
+    "attack": 142,
+    "defense": 175
+  },
+  "458": {
+    "stamina": 90,
+    "attack": 105,
+    "defense": 212
+  },
+  "459": {
+    "stamina": 120,
+    "attack": 115,
+    "defense": 110
+  },
+  "460": {
+    "stamina": 180,
+    "attack": 178,
+    "defense": 163
+  },
+  "461": {
+    "stamina": 140,
+    "attack": 243,
+    "defense": 182
+  },
+  "462": {
+    "stamina": 140,
+    "attack": 238,
+    "defense": 217
+  },
+  "463": {
+    "stamina": 220,
+    "attack": 161,
+    "defense": 181
+  },
+  "464": {
+    "stamina": 230,
+    "attack": 241,
+    "defense": 224
+  },
+  "465": {
+    "stamina": 200,
+    "attack": 207,
+    "defense": 219
+  },
+  "466": {
+    "stamina": 150,
+    "attack": 249,
+    "defense": 173
+  },
+  "467": {
+    "stamina": 150,
+    "attack": 247,
+    "defense": 186
+  },
+  "468": {
+    "stamina": 170,
+    "attack": 225,
+    "defense": 227
+  },
+  "469": {
+    "stamina": 172,
+    "attack": 231,
+    "defense": 172
+  },
+  "470": {
+    "stamina": 130,
+    "attack": 216,
+    "defense": 254
+  },
+  "471": {
+    "stamina": 130,
+    "attack": 238,
+    "defense": 212
+  },
+  "472": {
+    "stamina": 150,
+    "attack": 185,
+    "defense": 248
+  },
+  "473": {
+    "stamina": 220,
+    "attack": 247,
+    "defense": 157
+  },
+  "474": {
+    "stamina": 170,
+    "attack": 264,
+    "defense": 153
+  },
+  "475": {
+    "stamina": 136,
+    "attack": 237,
+    "defense": 220
+  },
+  "476": {
+    "stamina": 120,
+    "attack": 135,
+    "defense": 278
+  },
+  "477": {
+    "stamina": 90,
+    "attack": 180,
+    "defense": 254
+  },
+  "478": {
+    "stamina": 140,
+    "attack": 171,
+    "defense": 150
+  },
+  "479": {
+    "stamina": 100,
+    "attack": 185,
+    "defense": 159
+  },
+  "480": {
+    "stamina": 150,
+    "attack": 156,
+    "defense": 270
+  },
+  "481": {
+    "stamina": 160,
+    "attack": 212,
+    "defense": 212
+  },
+  "482": {
+    "stamina": 150,
+    "attack": 270,
+    "defense": 151
+  },
+  "483": {
+    "stamina": 200,
+    "attack": 302,
+    "defense": 242
+  },
+  "484": {
+    "stamina": 180,
+    "attack": 308,
+    "defense": 247
+  },
+  "485": {
+    "stamina": 182,
+    "attack": 251,
+    "defense": 213
+  },
+  "486": {
+    "stamina": 220,
+    "attack": 315,
+    "defense": 231
+  },
+  "487": {
+    "stamina": 300,
+    "attack": 206,
+    "defense": 247
+  },
+  "488": {
+    "stamina": 240,
+    "attack": 152,
+    "defense": 263
+  },
+  "489": {
+    "stamina": 160,
+    "attack": 162,
+    "defense": 162
+  },
+  "490": {
+    "stamina": 200,
+    "attack": 210,
+    "defense": 210
+  },
+  "491": {
+    "stamina": 140,
+    "attack": 285,
+    "defense": 198
+  },
+  "492": {
+    "stamina": 200,
+    "attack": 210,
+    "defense": 210
+  },
+  "493": {
+    "stamina": 240,
+    "attack": 262,
+    "defense": 262
+  },
+  "494": {
+    "stamina": 200,
+    "attack": 210,
+    "defense": 210
+  },
+  "495": {
+    "stamina": 90,
+    "attack": 88,
+    "defense": 107
+  },
+  "496": {
+    "stamina": 120,
+    "attack": 122,
+    "defense": 152
+  },
+  "497": {
+    "stamina": 150,
+    "attack": 161,
+    "defense": 204
+  },
+  "498": {
+    "stamina": 130,
+    "attack": 115,
+    "defense": 85
+  },
+  "499": {
+    "stamina": 180,
+    "attack": 173,
+    "defense": 106
+  },
+  "500": {
+    "stamina": 220,
+    "attack": 235,
+    "defense": 127
+  },
+  "501": {
+    "stamina": 110,
+    "attack": 117,
+    "defense": 85
+  },
+  "502": {
+    "stamina": 150,
+    "attack": 159,
+    "defense": 116
+  },
+  "503": {
+    "stamina": 190,
+    "attack": 212,
+    "defense": 164
+  },
+  "504": {
+    "stamina": 90,
+    "attack": 98,
+    "defense": 73
+  },
+  "505": {
+    "stamina": 120,
+    "attack": 165,
+    "defense": 139
+  },
+  "506": {
+    "stamina": 90,
+    "attack": 107,
+    "defense": 86
+  },
+  "507": {
+    "stamina": 130,
+    "attack": 145,
+    "defense": 126
+  },
+  "508": {
+    "stamina": 170,
+    "attack": 206,
+    "defense": 182
+  },
+  "509": {
+    "stamina": 82,
+    "attack": 98,
+    "defense": 73
+  },
+  "510": {
+    "stamina": 128,
+    "attack": 187,
+    "defense": 106
+  },
+  "511": {
+    "stamina": 100,
+    "attack": 104,
+    "defense": 94
+  },
+  "512": {
+    "stamina": 150,
+    "attack": 206,
+    "defense": 133
+  },
+  "513": {
+    "stamina": 100,
+    "attack": 104,
+    "defense": 94
+  },
+  "514": {
+    "stamina": 150,
+    "attack": 206,
+    "defense": 133
+  },
+  "515": {
+    "stamina": 100,
+    "attack": 104,
+    "defense": 94
+  },
+  "516": {
+    "stamina": 150,
+    "attack": 206,
+    "defense": 133
+  },
+  "517": {
+    "stamina": 152,
+    "attack": 111,
+    "defense": 97
+  },
+  "518": {
+    "stamina": 232,
+    "attack": 183,
+    "defense": 171
+  },
+  "519": {
+    "stamina": 100,
+    "attack": 98,
+    "defense": 89
+  },
+  "520": {
+    "stamina": 124,
+    "attack": 144,
+    "defense": 117
+  },
+  "521": {
+    "stamina": 160,
+    "attack": 226,
+    "defense": 160
+  },
+  "522": {
+    "stamina": 90,
+    "attack": 118,
+    "defense": 64
+  },
+  "523": {
+    "stamina": 150,
+    "attack": 211,
+    "defense": 136
+  },
+  "524": {
+    "stamina": 110,
+    "attack": 121,
+    "defense": 136
+  },
+  "525": {
+    "stamina": 140,
+    "attack": 174,
+    "defense": 173
+  },
+  "526": {
+    "stamina": 170,
+    "attack": 226,
+    "defense": 223
+  },
+  "527": {
+    "stamina": 130,
+    "attack": 107,
+    "defense": 85
+  },
+  "528": {
+    "stamina": 134,
+    "attack": 161,
+    "defense": 119
+  },
+  "529": {
+    "stamina": 120,
+    "attack": 154,
+    "defense": 88
+  },
+  "530": {
+    "stamina": 220,
+    "attack": 255,
+    "defense": 132
+  },
+  "531": {
+    "stamina": 206,
+    "attack": 114,
+    "defense": 163
+  },
+  "532": {
+    "stamina": 150,
+    "attack": 134,
+    "defense": 97
+  },
+  "533": {
+    "stamina": 170,
+    "attack": 180,
+    "defense": 150
+  },
+  "534": {
+    "stamina": 210,
+    "attack": 243,
+    "defense": 172
+  },
+  "535": {
+    "stamina": 100,
+    "attack": 98,
+    "defense": 78
+  },
+  "536": {
+    "stamina": 150,
+    "attack": 128,
+    "defense": 109
+  },
+  "537": {
+    "stamina": 210,
+    "attack": 188,
+    "defense": 150
+  },
+  "538": {
+    "stamina": 240,
+    "attack": 172,
+    "defense": 160
+  },
+  "539": {
+    "stamina": 150,
+    "attack": 231,
+    "defense": 153
+  },
+  "540": {
+    "stamina": 90,
+    "attack": 96,
+    "defense": 129
+  },
+  "541": {
+    "stamina": 110,
+    "attack": 115,
+    "defense": 166
+  },
+  "542": {
+    "stamina": 150,
+    "attack": 205,
+    "defense": 165
+  },
+  "543": {
+    "stamina": 60,
+    "attack": 83,
+    "defense": 109
+  },
+  "544": {
+    "stamina": 80,
+    "attack": 100,
+    "defense": 182
+  },
+  "545": {
+    "stamina": 120,
+    "attack": 203,
+    "defense": 186
+  },
+  "546": {
+    "stamina": 80,
+    "attack": 71,
+    "defense": 116
+  },
+  "547": {
+    "stamina": 120,
+    "attack": 164,
+    "defense": 182
+  },
+  "548": {
+    "stamina": 90,
+    "attack": 119,
+    "defense": 91
+  },
+  "549": {
+    "stamina": 140,
+    "attack": 214,
+    "defense": 155
+  },
+  "550": {
+    "stamina": 140,
+    "attack": 189,
+    "defense": 134
+  },
+  "551": {
+    "stamina": 100,
+    "attack": 132,
+    "defense": 69
+  },
+  "552": {
+    "stamina": 120,
+    "attack": 155,
+    "defense": 90
+  },
+  "553": {
+    "stamina": 190,
+    "attack": 229,
+    "defense": 163
+  },
+  "554": {
+    "stamina": 140,
+    "attack": 153,
+    "defense": 86
+  },
+  "555": {
+    "stamina": 210,
+    "attack": 263,
+    "defense": 114
+  },
+  "556": {
+    "stamina": 150,
+    "attack": 201,
+    "defense": 130
+  },
+  "557": {
+    "stamina": 100,
+    "attack": 118,
+    "defense": 152
+  },
+  "558": {
+    "stamina": 140,
+    "attack": 188,
+    "defense": 224
+  },
+  "559": {
+    "stamina": 100,
+    "attack": 132,
+    "defense": 132
+  },
+  "560": {
+    "stamina": 130,
+    "attack": 163,
+    "defense": 222
+  },
+  "561": {
+    "stamina": 144,
+    "attack": 204,
+    "defense": 167
+  },
+  "562": {
+    "stamina": 76,
+    "attack": 95,
+    "defense": 150
+  },
+  "563": {
+    "stamina": 116,
+    "attack": 163,
+    "defense": 255
+  },
+  "564": {
+    "stamina": 108,
+    "attack": 134,
+    "defense": 172
+  },
+  "565": {
+    "stamina": 148,
+    "attack": 192,
+    "defense": 228
+  },
+  "566": {
+    "stamina": 110,
+    "attack": 213,
+    "defense": 89
+  },
+  "567": {
+    "stamina": 150,
+    "attack": 292,
+    "defense": 139
+  },
+  "568": {
+    "stamina": 100,
+    "attack": 96,
+    "defense": 122
+  },
+  "569": {
+    "stamina": 160,
+    "attack": 181,
+    "defense": 164
+  },
+  "570": {
+    "stamina": 80,
+    "attack": 153,
+    "defense": 78
+  },
+  "571": {
+    "stamina": 120,
+    "attack": 250,
+    "defense": 127
+  },
+  "572": {
+    "stamina": 110,
+    "attack": 98,
+    "defense": 80
+  },
+  "573": {
+    "stamina": 150,
+    "attack": 198,
+    "defense": 130
+  },
+  "574": {
+    "stamina": 90,
+    "attack": 98,
+    "defense": 118
+  },
+  "575": {
+    "stamina": 120,
+    "attack": 137,
+    "defense": 159
+  },
+  "576": {
+    "stamina": 140,
+    "attack": 176,
+    "defense": 212
+  },
+  "577": {
+    "stamina": 90,
+    "attack": 170,
+    "defense": 87
+  },
+  "578": {
+    "stamina": 130,
+    "attack": 208,
+    "defense": 107
+  },
+  "579": {
+    "stamina": 220,
+    "attack": 214,
+    "defense": 153
+  },
+  "580": {
+    "stamina": 124,
+    "attack": 84,
+    "defense": 96
+  },
+  "581": {
+    "stamina": 150,
+    "attack": 182,
+    "defense": 132
+  },
+  "582": {
+    "stamina": 72,
+    "attack": 118,
+    "defense": 111
+  },
+  "583": {
+    "stamina": 102,
+    "attack": 151,
+    "defense": 143
+  },
+  "584": {
+    "stamina": 142,
+    "attack": 218,
+    "defense": 190
+  },
+  "585": {
+    "stamina": 120,
+    "attack": 115,
+    "defense": 100
+  },
+  "586": {
+    "stamina": 160,
+    "attack": 198,
+    "defense": 146
+  },
+  "587": {
+    "stamina": 110,
+    "attack": 158,
+    "defense": 127
+  },
+  "588": {
+    "stamina": 100,
+    "attack": 137,
+    "defense": 87
+  },
+  "589": {
+    "stamina": 140,
+    "attack": 223,
+    "defense": 187
+  },
+  "590": {
+    "stamina": 138,
+    "attack": 97,
+    "defense": 95
+  },
+  "591": {
+    "stamina": 228,
+    "attack": 155,
+    "defense": 144
+  },
+  "592": {
+    "stamina": 110,
+    "attack": 115,
+    "defense": 150
+  },
+  "593": {
+    "stamina": 200,
+    "attack": 159,
+    "defense": 195
+  },
+  "594": {
+    "stamina": 330,
+    "attack": 138,
+    "defense": 148
+  },
+  "595": {
+    "stamina": 100,
+    "attack": 110,
+    "defense": 98
+  },
+  "596": {
+    "stamina": 140,
+    "attack": 201,
+    "defense": 128
+  },
+  "597": {
+    "stamina": 88,
+    "attack": 82,
+    "defense": 157
+  },
+  "598": {
+    "stamina": 148,
+    "attack": 158,
+    "defense": 230
+  },
+  "599": {
+    "stamina": 80,
+    "attack": 98,
+    "defense": 126
+  },
+  "600": {
+    "stamina": 120,
+    "attack": 150,
+    "defense": 179
+  },
+  "601": {
+    "stamina": 120,
+    "attack": 199,
+    "defense": 230
+  },
+  "602": {
+    "stamina": 70,
+    "attack": 105,
+    "defense": 78
+  },
+  "603": {
+    "stamina": 130,
+    "attack": 156,
+    "defense": 130
+  },
+  "604": {
+    "stamina": 170,
+    "attack": 217,
+    "defense": 152
+  },
+  "605": {
+    "stamina": 110,
+    "attack": 148,
+    "defense": 100
+  },
+  "606": {
+    "stamina": 150,
+    "attack": 221,
+    "defense": 172
+  },
+  "607": {
+    "stamina": 100,
+    "attack": 108,
+    "defense": 98
+  },
+  "608": {
+    "stamina": 120,
+    "attack": 169,
+    "defense": 115
+  },
+  "609": {
+    "stamina": 120,
+    "attack": 271,
+    "defense": 182
+  },
+  "610": {
+    "stamina": 92,
+    "attack": 154,
+    "defense": 111
+  },
+  "611": {
+    "stamina": 132,
+    "attack": 212,
+    "defense": 133
+  },
+  "612": {
+    "stamina": 152,
+    "attack": 284,
+    "defense": 183
+  },
+  "613": {
+    "stamina": 110,
+    "attack": 128,
+    "defense": 74
+  },
+  "614": {
+    "stamina": 190,
+    "attack": 233,
+    "defense": 152
+  },
+  "615": {
+    "stamina": 160,
+    "attack": 190,
+    "defense": 264
+  },
+  "616": {
+    "stamina": 100,
+    "attack": 72,
+    "defense": 149
+  },
+  "617": {
+    "stamina": 160,
+    "attack": 220,
+    "defense": 131
+  },
+  "618": {
+    "stamina": 218,
+    "attack": 144,
+    "defense": 177
+  },
+  "619": {
+    "stamina": 90,
+    "attack": 160,
+    "defense": 98
+  },
+  "620": {
+    "stamina": 130,
+    "attack": 258,
+    "defense": 127
+  },
+  "621": {
+    "stamina": 154,
+    "attack": 213,
+    "defense": 170
+  },
+  "622": {
+    "stamina": 118,
+    "attack": 127,
+    "defense": 92
+  },
+  "623": {
+    "stamina": 178,
+    "attack": 222,
+    "defense": 154
+  },
+  "624": {
+    "stamina": 90,
+    "attack": 154,
+    "defense": 129
+  },
+  "625": {
+    "stamina": 130,
+    "attack": 232,
+    "defense": 191
+  },
+  "626": {
+    "stamina": 190,
+    "attack": 195,
+    "defense": 182
+  },
+  "627": {
+    "stamina": 140,
+    "attack": 150,
+    "defense": 97
+  },
+  "628": {
+    "stamina": 200,
+    "attack": 232,
+    "defense": 152
+  },
+  "629": {
+    "stamina": 140,
+    "attack": 105,
+    "defense": 144
+  },
+  "630": {
+    "stamina": 220,
+    "attack": 129,
+    "defense": 210
+  },
+  "631": {
+    "stamina": 170,
+    "attack": 204,
+    "defense": 129
+  },
+  "632": {
+    "stamina": 116,
+    "attack": 217,
+    "defense": 222
+  },
+  "633": {
+    "stamina": 104,
+    "attack": 116,
+    "defense": 93
+  },
+  "634": {
+    "stamina": 144,
+    "attack": 159,
+    "defense": 135
+  },
+  "635": {
+    "stamina": 184,
+    "attack": 256,
+    "defense": 188
+  },
+  "636": {
+    "stamina": 110,
+    "attack": 156,
+    "defense": 107
+  },
+  "637": {
+    "stamina": 170,
+    "attack": 264,
+    "defense": 210
+  },
+  "638": {
+    "stamina": 182,
+    "attack": 192,
+    "defense": 260
+  },
+  "639": {
+    "stamina": 182,
+    "attack": 260,
+    "defense": 192
+  },
+  "640": {
+    "stamina": 182,
+    "attack": 192,
+    "defense": 260
+  },
+  "641": {
+    "stamina": 158,
+    "attack": 266,
+    "defense": 169
+  },
+  "642": {
+    "stamina": 158,
+    "attack": 266,
+    "defense": 169
+  },
+  "643": {
+    "stamina": 200,
+    "attack": 302,
+    "defense": 242
+  },
+  "644": {
+    "stamina": 200,
+    "attack": 302,
+    "defense": 242
+  },
+  "645": {
+    "stamina": 178,
+    "attack": 261,
+    "defense": 187
+  },
+  "646": {
+    "stamina": 250,
+    "attack": 270,
+    "defense": 187
+  },
+  "647": {
+    "stamina": 182,
+    "attack": 260,
+    "defense": 192
+  },
+  "648": {
+    "stamina": 200,
+    "attack": 250,
+    "defense": 250
+  },
+  "649": {
+    "stamina": 142,
+    "attack": 252,
+    "defense": 199
+  },
+  "650": {
+    "stamina": 112,
+    "attack": 110,
+    "defense": 116
+  },
+  "651": {
+    "stamina": 122,
+    "attack": 146,
+    "defense": 174
+  },
+  "652": {
+    "stamina": 176,
+    "attack": 201,
+    "defense": 227
+  },
+  "653": {
+    "stamina": 80,
+    "attack": 116,
+    "defense": 112
+  },
+  "654": {
+    "stamina": 118,
+    "attack": 171,
+    "defense": 136
+  },
+  "655": {
+    "stamina": 150,
+    "attack": 230,
+    "defense": 204
+  },
+  "656": {
+    "stamina": 82,
+    "attack": 122,
+    "defense": 86
+  },
+  "657": {
+    "stamina": 108,
+    "attack": 168,
+    "defense": 116
+  },
+  "658": {
+    "stamina": 144,
+    "attack": 223,
+    "defense": 154
+  },
+  "659": {
+    "stamina": 76,
+    "attack": 68,
+    "defense": 73
+  },
+  "660": {
+    "stamina": 170,
+    "attack": 112,
+    "defense": 155
+  },
+  "661": {
+    "stamina": 90,
+    "attack": 95,
+    "defense": 83
+  },
+  "662": {
+    "stamina": 124,
+    "attack": 145,
+    "defense": 111
+  },
+  "663": {
+    "stamina": 156,
+    "attack": 176,
+    "defense": 156
+  },
+  "664": {
+    "stamina": 76,
+    "attack": 63,
+    "defense": 70
+  },
+  "665": {
+    "stamina": 90,
+    "attack": 48,
+    "defense": 103
+  },
+  "666": {
+    "stamina": 160,
+    "attack": 176,
+    "defense": 103
+  },
+  "667": {
+    "stamina": 124,
+    "attack": 139,
+    "defense": 114
+  },
+  "668": {
+    "stamina": 172,
+    "attack": 221,
+    "defense": 152
+  },
+  "669": {
+    "stamina": 88,
+    "attack": 108,
+    "defense": 138
+  },
+  "670": {
+    "stamina": 108,
+    "attack": 136,
+    "defense": 175
+  },
+  "671": {
+    "stamina": 156,
+    "attack": 212,
+    "defense": 287
+  },
+  "672": {
+    "stamina": 132,
+    "attack": 123,
+    "defense": 107
+  },
+  "673": {
+    "stamina": 246,
+    "attack": 196,
+    "defense": 155
+  },
+  "674": {
+    "stamina": 134,
+    "attack": 145,
+    "defense": 113
+  },
+  "675": {
+    "stamina": 190,
+    "attack": 226,
+    "defense": 149
+  },
+  "676": {
+    "stamina": 150,
+    "attack": 164,
+    "defense": 182
+  },
+  "677": {
+    "stamina": 124,
+    "attack": 120,
+    "defense": 117
+  },
+  "678": {
+    "stamina": 148,
+    "attack": 166,
+    "defense": 170
+  },
+  "679": {
+    "stamina": 90,
+    "attack": 135,
+    "defense": 167
+  },
+  "680": {
+    "stamina": 118,
+    "attack": 188,
+    "defense": 253
+  },
+  "681": {
+    "stamina": 120,
+    "attack": 97,
+    "defense": 291
+  },
+  "682": {
+    "stamina": 156,
+    "attack": 110,
+    "defense": 116
+  },
+  "683": {
+    "stamina": 202,
+    "attack": 173,
+    "defense": 158
+  },
+  "684": {
+    "stamina": 124,
+    "attack": 109,
+    "defense": 123
+  },
+  "685": {
+    "stamina": 164,
+    "attack": 168,
+    "defense": 168
+  },
+  "686": {
+    "stamina": 106,
+    "attack": 98,
+    "defense": 98
+  },
+  "687": {
+    "stamina": 172,
+    "attack": 177,
+    "defense": 172
+  },
+  "688": {
+    "stamina": 84,
+    "attack": 96,
+    "defense": 124
+  },
+  "689": {
+    "stamina": 144,
+    "attack": 194,
+    "defense": 220
+  },
+  "690": {
+    "stamina": 100,
+    "attack": 109,
+    "defense": 109
+  },
+  "691": {
+    "stamina": 130,
+    "attack": 177,
+    "defense": 223
+  },
+  "692": {
+    "stamina": 100,
+    "attack": 108,
+    "defense": 118
+  },
+  "693": {
+    "stamina": 142,
+    "attack": 221,
+    "defense": 172
+  },
+  "694": {
+    "stamina": 88,
+    "attack": 115,
+    "defense": 83
+  },
+  "695": {
+    "stamina": 124,
+    "attack": 219,
+    "defense": 190
+  },
+  "696": {
+    "stamina": 116,
+    "attack": 158,
+    "defense": 138
+  },
+  "697": {
+    "stamina": 164,
+    "attack": 227,
+    "defense": 221
+  },
+  "698": {
+    "stamina": 154,
+    "attack": 124,
+    "defense": 116
+  },
+  "699": {
+    "stamina": 246,
+    "attack": 186,
+    "defense": 173
+  },
+  "700": {
+    "stamina": 190,
+    "attack": 203,
+    "defense": 237
+  },
+  "701": {
+    "stamina": 156,
+    "attack": 195,
+    "defense": 160
+  },
+  "702": {
+    "stamina": 134,
+    "attack": 164,
+    "defense": 139
+  },
+  "703": {
+    "stamina": 100,
+    "attack": 95,
+    "defense": 285
+  },
+  "704": {
+    "stamina": 90,
+    "attack": 101,
+    "defense": 130
+  },
+  "705": {
+    "stamina": 136,
+    "attack": 159,
+    "defense": 205
+  },
+  "706": {
+    "stamina": 180,
+    "attack": 220,
+    "defense": 283
+  },
+  "707": {
+    "stamina": 114,
+    "attack": 160,
+    "defense": 181
+  },
+  "708": {
+    "stamina": 86,
+    "attack": 125,
+    "defense": 108
+  },
+  "709": {
+    "stamina": 170,
+    "attack": 201,
+    "defense": 157
+  },
+  "710": {
+    "stamina": 98,
+    "attack": 121,
+    "defense": 129
+  },
+  "711": {
+    "stamina": 130,
+    "attack": 175,
+    "defense": 236
+  },
+  "712": {
+    "stamina": 110,
+    "attack": 117,
+    "defense": 143
+  },
+  "713": {
+    "stamina": 190,
+    "attack": 196,
+    "defense": 303
+  },
+  "714": {
+    "stamina": 80,
+    "attack": 83,
+    "defense": 76
+  },
+  "715": {
+    "stamina": 170,
+    "attack": 205,
+    "defense": 175
+  },
+  "716": {
+    "stamina": 252,
+    "attack": 275,
+    "defense": 204
+  },
+  "717": {
+    "stamina": 252,
+    "attack": 275,
+    "defense": 204
+  },
+  "718": {
+    "stamina": 216,
+    "attack": 203,
+    "defense": 245
+  },
+  "719": {
+    "stamina": 100,
+    "attack": 190,
+    "defense": 285
+  },
+  "720": {
+    "stamina": 160,
+    "attack": 287,
+    "defense": 241
+  },
+  "721": {
+    "stamina": 160,
+    "attack": 252,
+    "defense": 231
+  }
+}

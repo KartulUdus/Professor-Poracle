@@ -1,0 +1,20 @@
+{
+  "name": "Pokedex-Discord",
+  "version": "1.0.0",
+  "description": "Pokémon descriptions, base stats, weaknesses and target CPs",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "kartul",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "config": "^1.30.0",
+    "discord.js": "^11.3.2",
+    "lodash": "^4.17.5",
+    "mustache": "^2.3.0",
+    "poke-types": "^1.0.10",
+    "pokemon-gif": "^1.0.12"
+  }
+}
