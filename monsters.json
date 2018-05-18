@@ -10349,57 +10349,5 @@
       }
     ],
     "spawn_rate": ""
-  },
-  "719": {
-    "name": "Diancie",
-    "rarity": "",
-    "types": [
-      {
-        "type": "Rock",
-        "emoji": "🗿",
-        "color": 12099640
-      },
-      {
-        "type": "Fairy",
-        "emoji": "🦋",
-        "color": 15243496
-      }
-    ],
-    "spawn_rate": ""
-  },
-  "720": {
-    "name": "Hoopa",
-    "rarity": "",
-    "types": [
-      {
-        "type": "Psychic",
-        "emoji": "🔮",
-        "color": 16275592
-      },
-      {
-        "type": "Ghost",
-        "emoji": "👻",
-        "color": 7362712
-      }
-    ],
-    "spawn_rate": ""
-  },
-  "721": {
-    "name": "Volcanion",
-    "rarity": "",
-    "types": [
-      {
-        "type": "Fire",
-        "emoji": "🔥",
-        "color": 15761456
-      },
-      {
-        "type": "Water",
-        "emoji": "💧",
-        "color": 6852848
-      }
-    ],
-    "spawn_rate": ""
-
   }
 }
