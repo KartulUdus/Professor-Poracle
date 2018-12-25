@@ -79,7 +79,11 @@ const typeConstants = {
     "Dragon": {
         "emoji": "🐲",
         "color": 7354616
-    }
+    },
+    "Rock": {
+    	"emoji": "🗿",
+    	"color": 12099640
+  },
 };
 
 client.on('ready', () => {
