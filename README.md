@@ -12,7 +12,7 @@ Discord pokédex bot with target CP information for PokémonGo
     * Fill maxlow for how many images your custom source has
 3) Optional - copy types and configure colors (#hex) and custom emojis for reactions `cp config/types.json.example config/types.json`
 	- If you want the defaults, it will copy for you, no action is required
-3) Start the bot `npm start`
+4) Start the bot `npm start`
     
 #### Usage
 
