@@ -5,12 +5,14 @@ Discord pokédex bot with target CP information for PokémonGo
 #### Install
 
 1) install requirements `npm install`  
-2) fill comfig file `config/default.json`
+2) copy and fill out config file `cp config/default.json.example config/default.json`
     * Discord bot token required  
     * Prefix is what your !commands start with
     * Fill "lowimageurl" if you would like to use your own source or images 
     * Fill maxlow for how many images your custom source has
-3) Start the bot `npm start`
+3) Optional - copy types and configure colors (#hex) and custom emojis for reactions `cp config/types.json.example config/types.json`
+	- If you want the defaults, it will copy for you, no action is required
+4) Start the bot `npm start`
     
 #### Usage
 

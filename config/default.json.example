@@ -1,0 +1,8 @@
+{
+  "discord": {
+    "token": "",
+    "prefix": "!",
+    "lowimageurl":"",
+    "maxlow": 0
+  }
+}

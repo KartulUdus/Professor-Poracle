@@ -1,3 +1,5 @@
+const fs = require('fs');
+const path = require('path');
 const _ = require('lodash');
 const Discord = require('discord.js');
 const monsterData = require('./monsters');
@@ -11,80 +13,12 @@ const baseStats = require('./base_stats');
 const config = require('config');
 const monsterUtils = require("./monster_utils");
 
-const typeConstants = {
-    "Grass": {
-        "emoji": "🌿",
-        "color": 7915600
-    },
-    "Poison": {
-        "emoji": "☠",
-        "color": 10502304
-    },
-    "Fire": {
-        "emoji": "🔥",
-        "color": 15761456
-    },
-    "Flying": {
-        "emoji": "🐦",
-        "color": 11047152
-    },
-    "Water": {
-        "emoji": "💧",
-        "color": 6852848
-    },
-    "Bug": {
-        "emoji": "🐛",
-        "color": 11057184
-    },
-    "Normal": {
-        "emoji": "⭕",
-        "color": 9079385
-    },
-    "Dark": {
-        "emoji": "🌑",
-        "color": 7368816
-    },
-    "Electric": {
-        "emoji": "⚡",
-        "color": 16306224
-    },
-    "Ground": {
-        "emoji": "🗿",
-        "color": 14729320
-    },
-    "Fairy": {
-        "emoji": "🦋",
-        "color": 15243496
-    },
-    "Fighting": {
-        "emoji": "👊",
-        "color": 12595240
-    },
-    "Psychic": {
-        "emoji": "🔮",
-        "color": 16275592
-    },
-    "Steel": {
-        "emoji": "🔩",
-        "color": 12105936
-    },
-    "Ice": {
-        "emoji": "❄",
-        "color": 10016984
-    },
-    "Ghost": {
-        "emoji": "👻",
-        "color": 7362712
-    },
-    "Dragon": {
-        "emoji": "🐲",
-        "color": 7354616
-    },
-    "Rock": {
-    	"emoji": "🗿",
-    	"color": 12099640
-  },
-};
+if (!fs.existsSync(path.join(__dirname, './config/types.json'))) {
+    const emergTypesConf = fs.readFileSync(path.join(__dirname, './config/types.json.example'), 'utf8')
+    fs.writeFileSync(path.join(__dirname, './config/types.json'), emergTypesConf)
+}
+
+const typeConstants = require('./config/types');
 
 client.on('ready', () => {
     console.log(`Discord botto "${client.user.tag}" ready for action!`);
@@ -250,7 +184,11 @@ client.on('message', (msg) => {
             let message = mustache.render(template, view);
             msg.reply(JSON.parse(message)).then((msg) => {
                 e.forEach((emoji) => {
-                    msg.react(emoji);
+                    if (emoji.match(/:\d+>/gi)) {    // If the emoji is a string matching discord custom emoji, fetch it before reacting
+                                emoji = emoji.match(/:\d+>/gi)[0].replace(/[:>]/g, '')
+                                emoji = client.emojis.get(emoji)
+                            }
+                            msg.react(emoji)
                 });
 
             });
