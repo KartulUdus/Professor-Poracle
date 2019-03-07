@@ -110,26 +110,34 @@ client.on('message', (msg) => {
 		args.forEach((element) => {
 			const pid = _.findKey(monsterData, mon => mon.name.toLowerCase() === element)
 			if (pid !== undefined) monsters.push(pid)
-			if (!isNaN(element) && parseInt(element, 10) < 810) monsters.push(element)
+			if (!isNaN(element) && parseInt(element, 10) < 810) monsters.push(parseInt(element, 10))
 		})
 
 
 		monsters.forEach((monster) => {
-			if (descriptions[monster - 1] === undefined) {
+			console.log(typeof monster)
+			let description = _.find(descriptions, (o) => {return o.pkdx_id === monster})
+			if (!description) {
 				msg.reply(`I don't know anything about ${monsterData[monster].name}`)
 				return
 			}
 
 			let imageurl = `${config.discord.lowimageurl}${monster}.png`
 
-			if (monster > config.discord.maxlow) imageurl = descriptions[monster - 1].art_url
+			if (monster > config.discord.maxlow) imageurl = description.art_url
 			const types = []
 			monsterData[monster].types.forEach((type) => {
 				types.push(`${type.type}`)
 			})
 			const allWeakness = pokeTypes.getTypeWeaknesses.apply(null, types)
 			const allStrenght = pokeTypes.getTypeStrengths.apply(null, types)
-			const gifurl = pokemonGif(Number(monster))
+			let gifurl = ''
+			try {
+				gifurl = pokemonGif(Number(monster))
+			} catch(e) {
+				console.log(`pokeGif couldn't pull a gif for #${monster}: ${e.message}`)
+			}
+
 			const { name } = monsterData[monster]
 			const weakness = []
 			const strength = []
@@ -145,7 +153,7 @@ client.on('message', (msg) => {
 				}
 			})
 
-			const data = descriptions[monster - 1].description
+			const data = description.description
 
 			const min_cp_15 = monsterUtils.calculateCp(monster, 15, 10, 10, 10)
 			const max_cp_15 = monsterUtils.calculateCp(monster, 15, 15, 15, 15)
