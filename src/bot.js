@@ -110,12 +110,12 @@ client.on('message', (msg) => {
 		args.forEach((element) => {
 			const pid = _.findKey(monsterData, mon => mon.name.toLowerCase() === element)
 			if (pid !== undefined) monsters.push(pid)
-			if (!isNaN(element) && parseInt(element, 10) < 810) monsters.push(parseInt(element, 10))
+			if (!isNaN(element) && parseInt(element, 10) < 810) monsters.push(element)
 		})
 
 
 		monsters.forEach((monster) => {
-			console.log(typeof monster)
+			monster = parseInt(monster, 10)
 			let description = _.find(descriptions, (o) => {return o.pkdx_id === monster})
 			if (!description) {
 				msg.reply(`I don't know anything about ${monsterData[monster].name}`)
