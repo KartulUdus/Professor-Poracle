@@ -12924,7 +12924,7 @@
     "__v": 1,
     "_id": "557a73b4ec77ea08b6dc04ae",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/718.png",
-    "description": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.  When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.  ",
+    "description": "Meltan is a small Pokémon with a shiny, silvery body made of liquid metal. Its head is a golden hexagon with a large circular hole in its center, resembling a hexagonal nut. Floating inside the hole is its eye. A red tail extends from its body with two tiny protrusions at the end. It is a curious and expressive Pokémon. Meltan's liquid arms and legs can corrode and absorb metal into its body, which it uses to generate electricity. Its eye can use this energy to fire an attack against opponents. Meltan are instinctively drawn towards each in order to combine into Melmetal.",
     "evolutions": [],
     "image_url": "http://pokeapi.co/media/img/718.png",
     "name": "Zygarde",
@@ -12933,6 +12933,41 @@
     "types": [
       "ground",
       "dragon"
+    ]
+  },
+    {
+    "__v": 1,
+    "_id": "",
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/808.png",
+    "description": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.  When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.  ",
+    "evolutions": [
+    {
+        "_id": "",
+        "level": 1,
+        "method": "level_up",
+        "to": "Melmetal"
+      }
+    ],
+    "image_url": "http://pokeapi.co/media/img/808.png",
+    "name": "Meltan",
+    "national_id": 808,
+    "pkdx_id": 808,
+    "types": [
+      "steel"
+    ]
+  },
+      {
+    "__v": 1,
+    "_id": "",
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/809.png",
+    "description": "Melmetal is a large silver Pokémon with a roughly humanoid build. It mainly consists of a liquid metal that is reflective. Many large dark gray hexagonal nuts appear on its body, including its shoulders, elbows and hands, one in the middle of its chest, and one on each foot. A gold-colored nut makes up its chest and second one serves as its head. Much like Meltan, it has a grey orb that serves as its pupil and a small red tail. Melmetal was in known in ancient times to be worshipped for the ability to create metal. Its body is incredibly sturdy due to evolving from combined Meltan. Due to the state of its liquid metal body, the arms are very flexible, capable of delivering power punches. Melmetal is the only known Pokémon capable of learning the move Double Iron Bash.",
+    "evolutions": [],
+    "image_url": "http://pokeapi.co/media/img/809.png",
+    "name": "Melmetal",
+    "national_id": 809,
+    "pkdx_id": 809,
+    "types": [
+      "steel"
     ]
   }
 ]
