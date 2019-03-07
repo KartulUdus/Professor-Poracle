@@ -106,13 +106,18 @@ client.on('message', (msg) => {
 			? msg.content.slice(`${config.discord.prefix}pokedex`.length).split(' ')
 			: msg.content.slice(`${config.discord.prefix}dex`.length).split(' ')
 		const args = rawArgs.join('|').toLowerCase().split('|')
-		const monsters = []
+		let monsters = []
 		args.forEach((element) => {
 			const pid = _.findKey(monsterData, mon => mon.name.toLowerCase() === element)
 			if (pid !== undefined) monsters.push(pid)
 			if (!isNaN(element) && parseInt(element, 10) < 810) monsters.push(element)
 		})
 
+		monsters = Array.from(new Set(monsters))
+
+		if (monsters.length > 5) {
+			monsters = monsters.slice(0, 5)
+		}
 
 		monsters.forEach((monster) => {
 			monster = parseInt(monster, 10)
