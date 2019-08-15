@@ -1,6 +1,6 @@
 {
   "name": "pokedex-discord",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "description": "Pokémon descriptions, base stats, weaknesses and target CPs",
   "main": "src/bot.js",
   "scripts": {
@@ -13,9 +13,13 @@
   "dependencies": {
     "config": "^1.30.0",
     "discord.js": "^11.3.2",
+    "enmap": "^5.1.0",
+    "import-fresh": "^3.1.0",
     "lodash": "^4.17.5",
     "mustache": "^2.3.0",
+    "node-fetch": "^2.6.0",
     "poke-types": "^1.0.10",
-    "pokemon-gif": "^1.0.12"
+    "pokemon-gif": "^1.0.12",
+    "readline-sync": "^1.4.10"
   }
 }

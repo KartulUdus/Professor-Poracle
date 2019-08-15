@@ -2,10 +2,10 @@
   "monster": {
 
     "embed": {
-      "description": "{{{ description }}} \n\nPokedex {{ id }}  \n\nBase Stats: {{atk}}/{{def}}/{{sta}} \n\nType: {{ type }} \nWeak against: {{ weak }} \nStrong against: {{ strong }} \n\nCP range with IV(10/10/10 - 15/15/15)\nlvl 15: {{mincp15}} - {{cp15}}\nlvl 20: {{mincp20}} - {{cp20}} \nlvl 25: {{mincp25}} - {{cp25}} ",
+      "description": "{{{ description }}} \n\nPokedex {{ id }}  \n\nBase Stats: {{baseAtk}}/{{baseDef}}/{{baseSta}} \n\nType: {{ type }} \n{{#superWeak}}Weak against: {{ superWeak }}{{/superWeak}} {{#ultraWeak}}\nVery weak against: {{ultraWeak}}{{/ultraWeak}} {{#superStrong}}\nStrong against: {{ superStrong }}{{/superStrong}} {{#ultraStrong}}\nVery strong against {{ultraStrong}}{{/ultraStrong}} \n\nLevel {{level}} ({{atk}}/{{def}}/{{sta}}) CP: **{{cp}}** ",
       "color": "{{color}}",
       "thumbnail": {
-      "url": "{{{gifurl}}}"
+      "url": "{{{ gifurl }}}"
       },
       "image": {
         "url": "{{{ imageurl }}}"

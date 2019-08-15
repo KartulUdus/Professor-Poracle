@@ -1,2 +1,3 @@
-config/*.json
+config/local.json
+config/types.json
 node_modules

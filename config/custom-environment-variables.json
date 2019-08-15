@@ -1,0 +1,6 @@
+{
+    "discord": {
+      "token": "DEX_TOKEN",
+      "prefix": "DEX_PREFIX"
+    }
+}
