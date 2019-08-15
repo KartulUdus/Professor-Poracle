@@ -6,7 +6,7 @@ const path = require('path')
 
 module.exports = () => {
 	if (!fs.existsSync(path.join(__dirname, '../../config/local.json'))) {
-		const defaultConfig = readFileSync(path.join(__dirname, '../../config/default.json'), 'utf8')
+		const defaultConfig = fs.readFileSync(path.join(__dirname, '../../config/default.json'), 'utf8')
 		fs.writeFileSync(path.join(__dirname, '../../config/local.json'), defaultConfig)
 	}
 
