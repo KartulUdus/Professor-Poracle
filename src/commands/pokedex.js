@@ -22,10 +22,10 @@ exports.run = async (client, msg, args) => {
 		let level = 40
 
 		args.forEach(arg => {
-			if (arg.match(/atk\d{1,2}/gi)) atk = arg.match(/atk\d{1,2}/gi)[0].replace(/atk/gi, '')
-			else if (arg.match(/def\d{1,2}/gi)) def = arg.match(/def\d{1,2}/gi)[0].replace(/def/gi, '')
-			else if (arg.match(/sta\d{1,2}/gi)) sta = arg.match(/sta\d{1,2}/gi)[0].replace(/sta/gi, '')
-			else if (arg.match(/level\d{1,2}/gi)) level = arg.match(/level\d{1,2}/gi)[0].replace(/level/gi, '')
+			if (arg.match(/atk\d{1,2}/gi)) atk = +(arg.match(/atk\d{1,2}/gi)[0].replace(/atk/gi, ''))
+			else if (arg.match(/def\d{1,2}/gi)) def = +(arg.match(/def\d{1,2}/gi)[0].replace(/def/gi, ''))
+			else if (arg.match(/sta\d{1,2}/gi)) sta = +(arg.match(/sta\d{1,2}/gi)[0].replace(/sta/gi, ''))
+			else if (arg.match(/level\d{1,2}/gi)) level = +(arg.match(/level\d{1,2}/gi)[0].replace(/level/gi, ''))
 
 		})
 
