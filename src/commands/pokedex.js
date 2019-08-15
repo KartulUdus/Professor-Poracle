@@ -36,15 +36,21 @@ exports.run = async (client, msg, args) => {
 			let types = mon.types.map(type => type.name)
 			let typeString = mon.types.map(type => `${typeData[type.name].emoji} ${type.name}`)
 			const allWeakness = client.pokeTypes.getTypeWeaknesses.apply(null, types)
-			const allStrenght = client.pokeTypes.getTypeStrengths.apply(null, types)
+			let allStrenght = {}
 			let superEffective = []
 			let ultraEffective = []
 			let superWeakness = []
 			let ultraWeakness = []
 
+			types.forEach(type => {
+				let strengths = client.pokeTypes.getTypeStrengths(type)
+				Object.keys(strengths).forEach(type => {
+					if(strengths[type] > allStrenght[type] || !allStrenght[type]) allStrenght[type] = strengths[type]
+				})
+			})
+
 			imgurl = `https://raw.githubusercontent.com/whitewillem/PogoAssets/resized/no_border/pokemon_icon_${mon.id.toString().padStart(3, '0')}_${mon.form.id ? mon.form.id.toString() : '00'}.png`
 			imgurlRes = await fetch(imgurl)
-
 			for( let type in allStrenght) {
 				let capType = client.capitalize(type)
 				if (allStrenght[type] === 2) superEffective.push(`${typeData[capType]? typeData[capType].emoji : ''} ${capType}`)
@@ -92,6 +98,7 @@ exports.run = async (client, msg, args) => {
 			const template = JSON.stringify(client.dts.monster)
 			const message = client.mustache.render(template, view)
 			msg.reply(JSON.parse(message))
+			console.log(`${msg.author.username} requested info on ${mon.name}`)
 
 		})
 		
