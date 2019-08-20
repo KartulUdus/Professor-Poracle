@@ -9,9 +9,9 @@ exports.run = async (client, msg, args) => {
 		// find the target pokemon
 		monsters = formNames.length ? 
 		Object.values(client.monsters)
-			.filter(mon => args.includes(mon.name.toLowerCase()) && formNames.includes(mon.form.name.toLowerCase()))
+			.filter(mon => (args.includes(mon.name.toLowerCase()) || args.includes(mon.id.toString())) && formNames.includes(mon.form.name.toLowerCase()))
 		:
-		Object.values(client.monsters).filter(mon => args.includes(mon.name.toLowerCase()) && mon.form.id === 0)
+		Object.values(client.monsters).filter(mon => (args.includes(mon.name.toLowerCase()) || args.includes(mon.id.toString())) && mon.form.id === 0)
 
 		// limit responces to 3 pokeman
 		if (monsters.length > 3) monsters = monsters.slice(0, 3)
