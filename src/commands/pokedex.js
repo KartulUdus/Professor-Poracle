@@ -72,6 +72,15 @@ exports.run = async (client, msg, args) => {
 			}
 
 			const cp = client.monsterUtils.calculateCp(mon, level, atk, def, sta)
+			
+			const min_cp_15 = monsterUtils.calculateCp(mon, 15, 10, 10, 10)
+			const max_cp_15 = monsterUtils.calculateCp(mon, 15, 15, 15, 15)
+			const min_cp_20 = monsterUtils.calculateCp(mon, 20, 10, 10, 10)
+			const max_cp_20 = monsterUtils.calculateCp(mon, 20, 15, 15, 15)
+			const min_cp_25 = monsterUtils.calculateCp(mon, 25, 10, 10, 10)
+			const max_cp_25 = monsterUtils.calculateCp(mon, 25, 15, 15, 15)
+			const min_cp_40 = monsterUtils.calculateCp(mon, 40, 10, 10, 10)
+			const max_cp_40 = monsterUtils.calculateCp(mon, 40, 15, 15, 15)			
 
 			const view = {
 				name: mon.name,
@@ -88,6 +97,13 @@ exports.run = async (client, msg, args) => {
 				baseAtk: mon.stats.baseAttack,
 				baseDef: mon.stats.baseDefense,
 				baseSta: mon.stats.baseStamina,
+				cp15: max_cp_15,
+				cp20: max_cp_20,
+				cp25: max_cp_25,
+				cp40: max_cp_40,
+				mincp15: min_cp_15,
+				mincp20: min_cp_20,
+				mincp25: min_cp_25,				
 				atk,
 				def,
 				sta,
