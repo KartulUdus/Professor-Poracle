@@ -73,14 +73,14 @@ exports.run = async (client, msg, args) => {
 
 			const cp = client.monsterUtils.calculateCp(mon, level, atk, def, sta)
 			
-			const min_cp_15 = monsterUtils.calculateCp(mon, 15, 10, 10, 10)
-			const max_cp_15 = monsterUtils.calculateCp(mon, 15, 15, 15, 15)
-			const min_cp_20 = monsterUtils.calculateCp(mon, 20, 10, 10, 10)
-			const max_cp_20 = monsterUtils.calculateCp(mon, 20, 15, 15, 15)
-			const min_cp_25 = monsterUtils.calculateCp(mon, 25, 10, 10, 10)
-			const max_cp_25 = monsterUtils.calculateCp(mon, 25, 15, 15, 15)
-			const min_cp_40 = monsterUtils.calculateCp(mon, 40, 10, 10, 10)
-			const max_cp_40 = monsterUtils.calculateCp(mon, 40, 15, 15, 15)			
+			const min_cp_15 = client.monsterUtils.calculateCp(mon, 15, 10, 10, 10)
+			const max_cp_15 = client.monsterUtils.calculateCp(mon, 15, 15, 15, 15)
+			const min_cp_20 = client.monsterUtils.calculateCp(mon, 20, 10, 10, 10)
+			const max_cp_20 = client.monsterUtils.calculateCp(mon, 20, 15, 15, 15)
+			const min_cp_25 = client.monsterUtils.calculateCp(mon, 25, 10, 10, 10)
+			const max_cp_25 = client.monsterUtils.calculateCp(mon, 25, 15, 15, 15)
+			const min_cp_40 = client.monsterUtils.calculateCp(mon, 40, 10, 10, 10)
+			const max_cp_40 = client.monsterUtils.calculateCp(mon, 40, 15, 15, 15)			
 
 			const view = {
 				name: mon.name,
