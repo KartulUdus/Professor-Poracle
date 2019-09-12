@@ -13460,8 +13460,8 @@
 		"id": 386,
 		"stats": {
 			"baseStamina": 137,
-			"baseAttack": 230,
-			"baseDefense": 218
+			"baseAttack": 345,
+			"baseDefense": 115
 		},
 		"types": [
 			{
