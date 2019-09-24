@@ -14271,6 +14271,28 @@
 			}
 		]
 	},
+
+	"412_120": {
+		"name": "Burmy",
+		"form": {
+			"id": 120,
+			"name": "Trash"
+		},
+		"id": 412,
+		"stats": {
+			"baseStamina": 120,
+			"baseAttack": 53,
+			"baseDefense": 83
+		},
+		"types": [
+			{
+				"id": 7,
+				"name": "Bug",
+				"emoji": "🐛",
+				"color": 11057184
+			}
+		]
+	},
 	"413_0": {
 		"name": "Wormadam",
 		"form": {
