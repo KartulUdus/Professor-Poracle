@@ -5,7 +5,7 @@
       "description": "Pokedex: **{{ id }}**  \n\n**Base Stats:** {{baseAtk}}/{{baseDef}}/{{baseSta}} \n\n**Type:** {{{ type }}} \n{{#superWeak}}**Weak against:** {{{ superWeak }}}{{/superWeak}} {{#ultraWeak}}\n**Very weak against:** {{{ultraWeak}}}{{/ultraWeak}} {{#superStrong}}\n**Strong against:** {{{ superStrong }}}{{/superStrong}} {{#ultraStrong}}\n**Very strong against:** {{{ultraStrong}}}{{/ultraStrong}} \n\nLevel **{{level}}** ({{atk}}/{{def}}/{{sta}}) CP: **{{cp}}** \n\nCP range with IV (10/10/10 - 15/15/15)\nLevel **15**: {{mincp15}} - {{cp15}}\nLevel **20**: {{mincp20}} - {{cp20}} \nLevel **25**: {{mincp25}} - {{cp25}} ",
       "color": "{{color}}",
       "thumbnail": {
-      "url": "{{{ gifurl }}}"
+      "url": "{{{ shuffleurl }}}"
       },
       "image": {
         "url": "{{{ imageurl }}}"
