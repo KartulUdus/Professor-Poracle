@@ -51,6 +51,8 @@ exports.run = async (client, msg, args) => {
 
 			imgurl = `https://raw.githubusercontent.com/whitewillem/PogoAssets/resized/no_border/pokemon_icon_${mon.id.toString().padStart(3, '0')}_${mon.form.id ? mon.form.id.toString() : '00'}.png`
 			imgurlRes = await fetch(imgurl)
+			shuffleurl = `https://raw.githubusercontent.com/shindekokoro/PkmnShuffleMap/master/PMSF_icons_large/pokemon_icon_${mon.id.toString().padStart(3, '0')}_${mon.form.id ? mon.form.id.toString() : '00'}.png`
+			shuffleurlRes = await fetch(shuffleurl)			
 			for( let type in allStrenght) {
 				let capType = client.capitalize(type)
 				if (allStrenght[type] === 2) superEffective.push(`${typeData[capType]? typeData[capType].emoji : ''} ${capType}`)
@@ -85,6 +87,7 @@ exports.run = async (client, msg, args) => {
 			const view = {
 				name: mon.name,
 				imageurl: imgurlRes.status === 200 ? imgurl : art_url,
+				shuffleurl: shuffleurlRes.status === 200 ? imgurl : art_url,				
 				id: mon.id,
 				gifurl: gifurl,
 				type: typeString.join(', '),
