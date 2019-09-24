@@ -87,7 +87,7 @@ exports.run = async (client, msg, args) => {
 			const view = {
 				name: mon.name,
 				imageurl: imgurlRes.status === 200 ? imgurl : art_url,
-				shuffleurl: shuffleurlRes.status === 200 ? imgurl : art_url,				
+				shuffleurl: shuffleurlRes.status === 200 ? shuffleurl : art_url,				
 				id: mon.id,
 				gifurl: gifurl,
 				type: typeString.join(', '),
