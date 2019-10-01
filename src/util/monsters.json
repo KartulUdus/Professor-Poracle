@@ -1409,6 +1409,33 @@
 			}
 		]
 	},
+	"26_50": {
+		"name": "Raichu",
+		"form": {
+			"id": 50,
+			"name": "Alola"
+		},
+		"id": 26,
+		"stats": {
+			"baseStamina": 155,
+			"baseAttack": 201,
+			"baseDefense": 154
+		},
+		"types": [
+			{
+				"id": 13,
+				"name": "Electric",
+				"emoji": "⚡",
+				"color": 16306224
+			},
+			{
+				"id": 14,
+				"name": "Psychic",
+				"emoji": "🔮",
+				"color": 16275592
+			}
+		]
+	},
 	"27_0": {
 		"name": "Sandshrew",
 		"form": {
@@ -4547,6 +4574,34 @@
 				"name": "Ground",
 				"emoji": "🗿",
 				"color": 14729320
+			}
+		]
+	},
+
+	"105_80": {
+		"name": "Marowak",
+		"form": {
+			"id": 80,
+			"name": "Alola"
+		},
+		"id": 105,
+		"stats": {
+			"baseStamina": 155,
+			"baseAttack": 144,
+			"baseDefense": 186
+		},
+		"types": [
+			{
+				"id": 10,
+				"name": "Fire",
+				"emoji": "🔥",
+				"color": 15761456
+			},
+			{
+				"id": 8,
+				"name": "Ghost",
+				"emoji": "👻",
+				"color": 7362712
 			}
 		]
 	},
@@ -13460,8 +13515,8 @@
 		"id": 386,
 		"stats": {
 			"baseStamina": 137,
-			"baseAttack": 230,
-			"baseDefense": 218
+			"baseAttack": 345,
+			"baseDefense": 115
 		},
 		"types": [
 			{
@@ -14200,6 +14255,28 @@
 		"form": {
 			"id": 119,
 			"name": "Sandy"
+		},
+		"id": 412,
+		"stats": {
+			"baseStamina": 120,
+			"baseAttack": 53,
+			"baseDefense": 83
+		},
+		"types": [
+			{
+				"id": 7,
+				"name": "Bug",
+				"emoji": "🐛",
+				"color": 11057184
+			}
+		]
+	},
+
+	"412_120": {
+		"name": "Burmy",
+		"form": {
+			"id": 120,
+			"name": "Trash"
 		},
 		"id": 412,
 		"stats": {
@@ -16481,8 +16558,35 @@
 		"id": 487,
 		"stats": {
 			"baseStamina": 284,
-			"baseAttack": 225,
-			"baseDefense": 187
+			"baseAttack": 187,
+			"baseDefense": 225
+		},
+		"types": [
+			{
+				"id": 8,
+				"name": "Ghost",
+				"emoji": "👻",
+				"color": 7362712
+			},
+			{
+				"id": 16,
+				"name": "Dragon",
+				"emoji": "🐲",
+				"color": 7354616
+			}
+		]
+	},
+	"487_90": {
+		"name": "Giratina",
+		"form": {
+			"id": 90,
+			"name": "Altered"
+		},
+		"id": 487,
+		"stats": {
+			"baseStamina": 284,
+			"baseAttack": 187,
+			"baseDefense": 225
 		},
 		"types": [
 			{
