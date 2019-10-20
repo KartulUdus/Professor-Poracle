@@ -51,6 +51,8 @@ exports.run = async (client, msg, args) => {
 
 			imgurl = `https://raw.githubusercontent.com/whitewillem/PogoAssets/resized/no_border/pokemon_icon_${mon.id.toString().padStart(3, '0')}_${mon.form.id ? mon.form.id.toString() : '00'}.png`
 			imgurlRes = await fetch(imgurl)
+			shuffleurl = `https://raw.githubusercontent.com/shindekokoro/PkmnShuffleMap/master/PMSF_icons_large/pokemon_icon_${mon.id.toString().padStart(3, '0')}_${mon.form.id ? mon.form.id.toString() : '00'}.png`
+			shuffleurlRes = await fetch(shuffleurl)			
 			for( let type in allStrenght) {
 				let capType = client.capitalize(type)
 				if (allStrenght[type] === 2) superEffective.push(`${typeData[capType]? typeData[capType].emoji : ''} ${capType}`)
@@ -72,10 +74,20 @@ exports.run = async (client, msg, args) => {
 			}
 
 			const cp = client.monsterUtils.calculateCp(mon, level, atk, def, sta)
+			
+			const min_cp_15 = client.monsterUtils.calculateCp(mon, 15, 10, 10, 10)
+			const max_cp_15 = client.monsterUtils.calculateCp(mon, 15, 15, 15, 15)
+			const min_cp_20 = client.monsterUtils.calculateCp(mon, 20, 10, 10, 10)
+			const max_cp_20 = client.monsterUtils.calculateCp(mon, 20, 15, 15, 15)
+			const min_cp_25 = client.monsterUtils.calculateCp(mon, 25, 10, 10, 10)
+			const max_cp_25 = client.monsterUtils.calculateCp(mon, 25, 15, 15, 15)
+			const min_cp_40 = client.monsterUtils.calculateCp(mon, 40, 10, 10, 10)
+			const max_cp_40 = client.monsterUtils.calculateCp(mon, 40, 15, 15, 15)			
 
 			const view = {
 				name: mon.name,
 				imageurl: imgurlRes.status === 200 ? imgurl : art_url,
+				shuffleurl: shuffleurlRes.status === 200 ? shuffleurl : art_url,				
 				id: mon.id,
 				gifurl: gifurl,
 				type: typeString.join(', '),
@@ -88,6 +100,13 @@ exports.run = async (client, msg, args) => {
 				baseAtk: mon.stats.baseAttack,
 				baseDef: mon.stats.baseDefense,
 				baseSta: mon.stats.baseStamina,
+				cp15: max_cp_15,
+				cp20: max_cp_20,
+				cp25: max_cp_25,
+				cp40: max_cp_40,
+				mincp15: min_cp_15,
+				mincp20: min_cp_20,
+				mincp25: min_cp_25,				
 				atk,
 				def,
 				sta,

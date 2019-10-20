@@ -12644,10 +12644,10 @@
 		},
 		"types": [
 			{
-				"id": 10,
-				"name": "Fire",
-				"emoji": "🔥",
-				"color": 15761456
+				"id": 1,
+				"name": "Normal",
+				"emoji": "⭕",
+				"color": 9079385
 			}
 		]
 	},
