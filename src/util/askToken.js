@@ -1,6 +1,6 @@
 const readline = require('readline');
 const fs = require('fs');
-const tokenPattern = /[MN][A-Za-z\d]{23}\.[\w-]{6}\.[\w-]{27}/g
+const tokenPattern = /[ODMN][A-Za-z\d]{23}\.[\w-]{6}\.[\w-]{27}/g
 const readlineSync = require('readline-sync')
 
 module.exports = async (config) => {
