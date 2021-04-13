@@ -9,7 +9,7 @@ const pokeTypes = require('poke-types')
 const Config = require('./util/configFetcher')
 
 let { config } = Config()
-const tokenPattern = /[MN][A-Za-z\d]{23}\.[\w-]{6}\.[\w-]{27}/g
+const tokenPattern = /[ODMN][A-Za-z\d]{23}\.[\w-]{6}\.[\w-]{27}/g
 let askToken = require('./util/askToken')
 const { promisify } = require('util')
 const readFileAsync = promisify(fs.readFile)
